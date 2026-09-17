@@ -1,0 +1,94 @@
+{
+  "browser": "153.0.8010.12",
+  "extension_version": null,
+  "scope": "One fresh-profile visit per site; site scores can vary. The extreme heading was clicked once; popup attempts were closed. No manual scoring controls were used. This does not prove universal coverage.",
+  "pages": [
+    {
+      "url": "https://canyoublockit.com/extreme-test/",
+      "http_status": 200,
+      "score": null,
+      "failed_check_lines": [],
+      "heading": "eXtreme Adblocker Test",
+      "visible_fixed_elements": [
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "classes": "notranslate btn-open-survey btn btn-primary tab tab-right survey-material-white allow-button wcag    survey-material-white",
+          "label": "Feedback"
+        }
+      ],
+      "screenshot": "blocker-sites-control-canyoublockit.com.png",
+      "blocked_requests": [],
+      "other_failures": [
+        {
+          "url": "https://canyoublockit.com/wp-content/uploads/2019/09/Rikc-Roll-HTML5.mp4",
+          "resource_type": "media",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://12ezo5v60.com/pn07uscr/f/tr/zavbn/1864953/lib.js",
+          "resource_type": "script",
+          "error": "net::ERR_ABORTED"
+        },
+        {
+          "url": "chrome-extension://ghbmnnjooekpmoecnnnilnnbdlolhkhi/page_embed_script.js",
+          "resource_type": "fetch",
+          "error": "net::ERR_FAILED"
+        },
+        {
+          "url": "https://analytics.google.com/g/collect",
+          "resource_type": "fetch",
+          "error": "net::ERR_ABORTED"
+        }
+      ],
+      "popup_attempts": [
+        {
+          "initial_url": "https://fvcwqkkqmuv.com/css/a/nypd/1752012"
+        }
+      ]
+    },
+    {
+      "url": "https://adblock-tester.com/",
+      "http_status": 200,
+      "score": 43,
+      "failed_check_lines": [
+        "Block visibility:\u00a0 \u26a0\ufe0f test has most likely failed",
+        "Script execution:\u00a0 \u274c test failed",
+        "Script execution:\u00a0 \u274c test failed",
+        "Script execution:\u00a0 \u26a0\ufe0f test has most likely failed (not all checks were successful)",
+        "File loading:\u00a0 \u274c test failed",
+        "Block visibility:\u00a0 \u26a0\ufe0f test has most likely failed",
+        "File loading:\u00a0 \u274c test failed",
+        "Block visibility:\u00a0 \u274c test failed",
+        "File loading:\u00a0 \u274c test failed",
+        "Block visibility:\u00a0 \u274c test failed",
+        "Script execution:\u00a0 \u274c test failed",
+        "Script execution:\u00a0 \u274c test failed"
+      ],
+      "heading": "AdBlock Tester (version\u00a03.1.1 from\u00a011/23/2023)",
+      "visible_fixed_elements": [
+        {
+          "tag": "H3",
+          "id": "",
+          "classes": "final-score svelte-127ctj",
+          "label": "43 points out of 100\n(11 services, 22 checks)"
+        }
+      ],
+      "screenshot": "blocker-sites-control-adblock-tester.com.png",
+      "blocked_requests": [],
+      "other_failures": [
+        {
+          "url": "https://ymatuhin.ru/ads/ads.js",
+          "resource_type": "script",
+          "error": "net::ERR_BLOCKED_BY_ORB"
+        },
+        {
+          "url": "https://d2wy8f7a9ursnm.cloudfront.net/v4/bugsnag.min.js",
+          "resource_type": "fetch",
+          "error": "net::ERR_FAILED"
+        }
+      ],
+      "popup_attempts": []
+    }
+  ]
+}

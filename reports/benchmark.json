@@ -1,0 +1,20 @@
+{
+  "scope": "Warm Node.js inference on synthetic states; includes feature extraction from state, excludes DOM and layout.",
+  "runtime": "v25.8.0",
+  "platform": "darwin arm64",
+  "cpu": "Apple M5",
+  "modelBytes": 33676,
+  "firstProcessModelLoadMs": 2.0276659999999964,
+  "iterations": 10000,
+  "medianMs": 0.006624999999999659,
+  "p95Ms": 0.012624999999999886,
+  "p99Ms": 0.03758400000000961,
+  "meanMs": 0.007779397500000202,
+  "keywordBaseline": {
+    "truePositives": 24,
+    "falsePositives": 0,
+    "actualAds": 32,
+    "precision": 1,
+    "recall": 0.75
+  }
+}

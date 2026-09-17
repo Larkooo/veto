@@ -1,0 +1,284 @@
+{
+  "browser": "153.0.8010.12",
+  "extension_version": "0.2.0",
+  "scope": "One fresh-profile visit per site; site scores can vary. The extreme heading was clicked once; popup attempts were closed. No manual scoring controls were used. This does not prove universal coverage.",
+  "pages": [
+    {
+      "url": "https://canyoublockit.com/extreme-test/",
+      "http_status": 200,
+      "score": null,
+      "failed_check_lines": [],
+      "heading": "eXtreme Adblocker Test",
+      "visible_fixed_elements": [
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "classes": "notranslate btn-open-survey btn btn-primary tab tab-right survey-material-white allow-button wcag    survey-material-white",
+          "label": "Feedback"
+        }
+      ],
+      "extension_status": {
+        "scanned": 4700,
+        "classified": 298,
+        "hidden": 6,
+        "slices": 62,
+        "cpuMs": 68.00000010430813,
+        "maxSliceMs": 5.0999999940395355,
+        "startedAt": 887.1000000089407,
+        "settledMs": 12112.5,
+        "paused": false,
+        "enabled": true,
+        "host": "canyoublockit.com",
+        "nativeHidden": 0,
+        "pending": false,
+        "modelBytes": 24576,
+        "modelVersion": "0.3.0"
+      },
+      "screenshot": "blocker-sites-canyoublockit.com.png",
+      "blocked_requests": [
+        {
+          "url": "https://fvcwqkkqmuv.com/aas/r45d/vki/1752012/f5443840.js",
+          "resource_type": "script",
+          "error": "net::ERR_BLOCKED_BY_CLIENT"
+        },
+        {
+          "url": "https://12ezo5v60.com/bultykh/ipp24/7/bazinga/1766077",
+          "resource_type": "script",
+          "error": "net::ERR_BLOCKED_BY_CLIENT"
+        },
+        {
+          "url": "https://12ezo5v60.com/pn07uscr/f/tr/zavbn/1864953/lib.js",
+          "resource_type": "script",
+          "error": "net::ERR_BLOCKED_BY_CLIENT"
+        },
+        {
+          "url": "https://ybs2ffs7v.com/lv/esnk/1986950/code.js",
+          "resource_type": "script",
+          "error": "net::ERR_BLOCKED_BY_CLIENT"
+        },
+        {
+          "url": "https://ybs2ffs7v.com/lv/esnk/1982819/code.js",
+          "resource_type": "script",
+          "error": "net::ERR_BLOCKED_BY_CLIENT"
+        },
+        {
+          "url": "https://ybs2ffs7v.com/lv/esnk/1837835/code.js",
+          "resource_type": "script",
+          "error": "net::ERR_BLOCKED_BY_CLIENT"
+        },
+        {
+          "url": "https://ybs2ffs7v.com/lv/esnk/1837837/code.js",
+          "resource_type": "script",
+          "error": "net::ERR_BLOCKED_BY_CLIENT"
+        },
+        {
+          "url": "https://www.antiadblocksystems.com/jquery.magnific-popup.min.js",
+          "resource_type": "script",
+          "error": "net::ERR_BLOCKED_BY_CLIENT"
+        },
+        {
+          "url": "https://www.googletagmanager.com/gtag/js",
+          "resource_type": "script",
+          "error": "net::ERR_BLOCKED_BY_CLIENT"
+        }
+      ],
+      "other_failures": [
+        {
+          "url": "https://d3cod80thn7qnd.cloudfront.net/Slim.min.js",
+          "resource_type": "script",
+          "error": "net::ERR_NAME_NOT_RESOLVED"
+        },
+        {
+          "url": "https://canyoublockit.com/wp-content/uploads/2019/09/Rikc-Roll-HTML5.mp4",
+          "resource_type": "media",
+          "error": "net::ERR_ABORTED"
+        }
+      ],
+      "popup_attempts": []
+    },
+    {
+      "url": "https://adblock-tester.com/",
+      "http_status": 200,
+      "score": 97,
+      "failed_check_lines": [
+        "Block visibility:\u00a0 \u26a0\ufe0f test has most likely failed"
+      ],
+      "heading": "AdBlock Tester (version\u00a03.1.1 from\u00a011/23/2023)",
+      "visible_fixed_elements": [
+        {
+          "tag": "H3",
+          "id": "",
+          "classes": "final-score svelte-127ctj",
+          "label": "97 points out of 100\n(11 services, 22 checks)"
+        }
+      ],
+      "extension_status": {
+        "scanned": 351,
+        "classified": 113,
+        "hidden": 0,
+        "slices": 5,
+        "cpuMs": 6.599999979138374,
+        "maxSliceMs": 2.2999999970197678,
+        "startedAt": 383,
+        "settledMs": 74.1000000089407,
+        "paused": false,
+        "enabled": true,
+        "host": "adblock-tester.com",
+        "nativeHidden": 0,
+        "pending": false,
+        "modelBytes": 24576,
+        "modelVersion": "0.3.0"
+      },
+      "screenshot": "blocker-sites-adblock-tester.com.png",
+      "blocked_requests": [
+        {
+          "url": "https://browser.sentry-cdn.com/7.81.1/bundle.tracing.replay.min.js",
+          "resource_type": "script",
+          "error": "net::ERR_BLOCKED_BY_CLIENT"
+        },
+        {
+          "url": "https://adblock-tester.com/banners/pr_advertising_ads_banner.gif",
+          "resource_type": "image",
+          "error": "net::ERR_BLOCKED_BY_CLIENT"
+        },
+        {
+          "url": "https://js.sentry-cdn.com/98eefed2636036c3bdb8377b11ff28fe.min.js",
+          "resource_type": "script",
+          "error": "net::ERR_BLOCKED_BY_CLIENT"
+        },
+        {
+          "url": "https://d2wy8f7a9ursnm.cloudfront.net/v4/bugsnag.min.js",
+          "resource_type": "script",
+          "error": "net::ERR_BLOCKED_BY_CLIENT"
+        },
+        {
+          "url": "https://adblock-tester.com/banners/pr_advertising_ads_banner.png",
+          "resource_type": "image",
+          "error": "net::ERR_BLOCKED_BY_CLIENT"
+        },
+        {
+          "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+          "resource_type": "script",
+          "error": "net::ERR_BLOCKED_BY_CLIENT"
+        },
+        {
+          "url": "https://an.yandex.ru/system/context.js",
+          "resource_type": "script",
+          "error": "net::ERR_BLOCKED_BY_CLIENT"
+        },
+        {
+          "url": "https://www.googletagmanager.com/gtag/js",
+          "resource_type": "script",
+          "error": "net::ERR_BLOCKED_BY_CLIENT"
+        },
+        {
+          "url": "https://static.hotjar.com/c/hotjar-1639117.js",
+          "resource_type": "script",
+          "error": "net::ERR_BLOCKED_BY_CLIENT"
+        },
+        {
+          "url": "https://mc.yandex.ru/metrika/tag.js",
+          "resource_type": "script",
+          "error": "net::ERR_BLOCKED_BY_CLIENT"
+        },
+        {
+          "url": "https://ymatuhin.ru/ads/ads.js",
+          "resource_type": "script",
+          "error": "net::ERR_BLOCKED_BY_CLIENT"
+        },
+        {
+          "url": "https://an.yandex.ru/system/context.js",
+          "resource_type": "script",
+          "error": "net::ERR_BLOCKED_BY_CLIENT"
+        },
+        {
+          "url": "https://www.googletagmanager.com/gtag/js",
+          "resource_type": "script",
+          "error": "net::ERR_BLOCKED_BY_CLIENT"
+        },
+        {
+          "url": "https://static.hotjar.com/c/hotjar-1639117.js",
+          "resource_type": "script",
+          "error": "net::ERR_BLOCKED_BY_CLIENT"
+        },
+        {
+          "url": "https://mc.yandex.ru/metrika/tag.js",
+          "resource_type": "script",
+          "error": "net::ERR_BLOCKED_BY_CLIENT"
+        },
+        {
+          "url": "https://js.sentry-cdn.com/98eefed2636036c3bdb8377b11ff28fe.min.js",
+          "resource_type": "script",
+          "error": "net::ERR_BLOCKED_BY_CLIENT"
+        },
+        {
+          "url": "https://d2wy8f7a9ursnm.cloudfront.net/v4/bugsnag.min.js",
+          "resource_type": "script",
+          "error": "net::ERR_BLOCKED_BY_CLIENT"
+        },
+        {
+          "url": "https://adblock-tester.com/banners/pr_advertising_ads_banner.gif",
+          "resource_type": "image",
+          "error": "net::ERR_BLOCKED_BY_CLIENT"
+        },
+        {
+          "url": "https://adblock-tester.com/banners/pr_advertising_ads_banner.png",
+          "resource_type": "image",
+          "error": "net::ERR_BLOCKED_BY_CLIENT"
+        },
+        {
+          "url": "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+          "resource_type": "script",
+          "error": "net::ERR_BLOCKED_BY_CLIENT"
+        },
+        {
+          "url": "https://an.yandex.ru/system/context.js",
+          "resource_type": "script",
+          "error": "net::ERR_BLOCKED_BY_CLIENT"
+        },
+        {
+          "url": "https://www.googletagmanager.com/gtag/js",
+          "resource_type": "script",
+          "error": "net::ERR_BLOCKED_BY_CLIENT"
+        },
+        {
+          "url": "https://static.hotjar.com/c/hotjar-1639117.js",
+          "resource_type": "script",
+          "error": "net::ERR_BLOCKED_BY_CLIENT"
+        },
+        {
+          "url": "https://mc.yandex.ru/metrika/tag.js",
+          "resource_type": "script",
+          "error": "net::ERR_BLOCKED_BY_CLIENT"
+        },
+        {
+          "url": "https://adblock-tester.com/banners/pr_advertising_ads_banner.swf",
+          "resource_type": "fetch",
+          "error": "net::ERR_BLOCKED_BY_CLIENT"
+        },
+        {
+          "url": "https://adblock-tester.com/banners/pr_advertising_ads_banner.gif",
+          "resource_type": "fetch",
+          "error": "net::ERR_BLOCKED_BY_CLIENT"
+        },
+        {
+          "url": "https://adblock-tester.com/banners/pr_advertising_ads_banner.png",
+          "resource_type": "fetch",
+          "error": "net::ERR_BLOCKED_BY_CLIENT"
+        },
+        {
+          "url": "https://js.sentry-cdn.com/98eefed2636036c3bdb8377b11ff28fe.min.js",
+          "resource_type": "script",
+          "error": "net::ERR_BLOCKED_BY_CLIENT"
+        },
+        {
+          "url": "https://d2wy8f7a9ursnm.cloudfront.net/v4/bugsnag.min.js",
+          "resource_type": "script",
+          "error": "net::ERR_BLOCKED_BY_CLIENT"
+        }
+      ],
+      "other_failures": [],
+      "popup_attempts": []
+    }
+  ]
+}

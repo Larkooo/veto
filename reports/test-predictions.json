@@ -1,0 +1,2882 @@
+[
+  {
+    "id": "ad-004-0",
+    "label": "ad",
+    "probabilities": {
+      "content": 0.000436633841840828,
+      "ad": 0.9995257104493366,
+      "cookie": 1.5374768809743216e-05,
+      "newsletter": 5.849885034414545e-06,
+      "notification": 6.6451276172585016e-06,
+      "paywall": 9.785927360908685e-06
+    }
+  },
+  {
+    "id": "ad-004-1",
+    "label": "ad",
+    "probabilities": {
+      "content": 0.00013509650727932062,
+      "ad": 0.9998515111650402,
+      "cookie": 2.578454193817232e-06,
+      "newsletter": 2.7610949560051724e-06,
+      "notification": 4.908445860151254e-06,
+      "paywall": 3.144332670523292e-06
+    }
+  },
+  {
+    "id": "ad-004-2",
+    "label": "ad",
+    "probabilities": {
+      "content": 0.00013165657703554927,
+      "ad": 0.9998459775375499,
+      "cookie": 6.248058517019186e-06,
+      "newsletter": 3.050399269183227e-06,
+      "notification": 5.635632689793075e-06,
+      "paywall": 7.431794938451845e-06
+    }
+  },
+  {
+    "id": "ad-004-3",
+    "label": "ad",
+    "probabilities": {
+      "content": 0.0040034120855231186,
+      "ad": 0.9958736437279702,
+      "cookie": 2.475158447495201e-05,
+      "newsletter": 3.529766161676631e-05,
+      "notification": 3.7840592896564625e-05,
+      "paywall": 2.5054347518457385e-05
+    }
+  },
+  {
+    "id": "ad-004-4",
+    "label": "ad",
+    "probabilities": {
+      "content": 9.441459646810324e-06,
+      "ad": 0.9999455878155723,
+      "cookie": 1.4544758521178502e-05,
+      "newsletter": 8.308952626445247e-06,
+      "notification": 7.046466382383018e-06,
+      "paywall": 1.5070547251067917e-05
+    }
+  },
+  {
+    "id": "ad-004-5",
+    "label": "ad",
+    "probabilities": {
+      "content": 0.0019426955169458756,
+      "ad": 0.9980384708879412,
+      "cookie": 3.934733039593723e-06,
+      "newsletter": 4.288086415684768e-06,
+      "notification": 4.890990731577765e-06,
+      "paywall": 5.719784926056489e-06
+    }
+  },
+  {
+    "id": "ad-004-6",
+    "label": "ad",
+    "probabilities": {
+      "content": 0.06829840169277411,
+      "ad": 0.9301474962762877,
+      "cookie": 0.00026211649893282063,
+      "newsletter": 0.00020848068080924883,
+      "notification": 0.000735732270429264,
+      "paywall": 0.0003477725807668667
+    }
+  },
+  {
+    "id": "ad-004-7",
+    "label": "ad",
+    "probabilities": {
+      "content": 0.002397304778179592,
+      "ad": 0.9975727587577121,
+      "cookie": 4.854453968909537e-06,
+      "newsletter": 6.385315555891914e-06,
+      "notification": 7.978468509677538e-06,
+      "paywall": 1.071822607376482e-05
+    }
+  },
+  {
+    "id": "ad-010-0",
+    "label": "ad",
+    "probabilities": {
+      "content": 0.012855213129163637,
+      "ad": 0.9862476208417223,
+      "cookie": 0.000283764253725085,
+      "newsletter": 0.0001538205275171557,
+      "notification": 0.00023441669322310553,
+      "paywall": 0.0002251645546484964
+    }
+  },
+  {
+    "id": "ad-010-1",
+    "label": "ad",
+    "probabilities": {
+      "content": 0.16078825685854287,
+      "ad": 0.8384412617264143,
+      "cookie": 0.00016274447501460278,
+      "newsletter": 0.00027028243626850705,
+      "notification": 0.00014804828706264732,
+      "paywall": 0.00018940621669717904
+    }
+  },
+  {
+    "id": "ad-010-2",
+    "label": "ad",
+    "probabilities": {
+      "content": 0.22282110331846877,
+      "ad": 0.7753294753431507,
+      "cookie": 0.00044479293888922104,
+      "newsletter": 0.0005592450932074988,
+      "notification": 0.0003522326454320053,
+      "paywall": 0.000493150660851733
+    }
+  },
+  {
+    "id": "ad-010-3",
+    "label": "ad",
+    "probabilities": {
+      "content": 0.009272410585079072,
+      "ad": 0.9905502913925923,
+      "cookie": 5.3917615831758674e-05,
+      "newsletter": 4.9529021211490456e-05,
+      "notification": 3.145702419984683e-05,
+      "paywall": 4.239436108574281e-05
+    }
+  },
+  {
+    "id": "ad-010-4",
+    "label": "ad",
+    "probabilities": {
+      "content": 0.1676925666236427,
+      "ad": 0.8025999712757099,
+      "cookie": 0.007440160740865249,
+      "newsletter": 0.010024341850243992,
+      "notification": 0.004712894137079352,
+      "paywall": 0.007530065372459009
+    }
+  },
+  {
+    "id": "ad-010-5",
+    "label": "ad",
+    "probabilities": {
+      "content": 0.6251544832922967,
+      "ad": 0.3739996028478096,
+      "cookie": 0.00012806921039736294,
+      "newsletter": 0.0002782972795302834,
+      "notification": 0.00023545487423333708,
+      "paywall": 0.0002040924957326649
+    }
+  },
+  {
+    "id": "ad-010-6",
+    "label": "ad",
+    "probabilities": {
+      "content": 0.006519929797026135,
+      "ad": 0.9932637002540209,
+      "cookie": 5.354340788631676e-05,
+      "newsletter": 4.2926645856444825e-05,
+      "notification": 5.557819787495454e-05,
+      "paywall": 6.432169733525976e-05
+    }
+  },
+  {
+    "id": "ad-010-7",
+    "label": "ad",
+    "probabilities": {
+      "content": 0.6210258069172226,
+      "ad": 0.3779294614689989,
+      "cookie": 0.00016917824449755818,
+      "newsletter": 0.0003727967490250753,
+      "notification": 0.00026447925463917945,
+      "paywall": 0.0002382773656165779
+    }
+  },
+  {
+    "id": "ad-011-0",
+    "label": "ad",
+    "probabilities": {
+      "content": 0.0006438521356888368,
+      "ad": 0.9992055102583498,
+      "cookie": 7.637694427971376e-05,
+      "newsletter": 1.5797791838595298e-05,
+      "notification": 3.8212236825007406e-05,
+      "paywall": 2.0250633017939422e-05
+    }
+  },
+  {
+    "id": "ad-011-1",
+    "label": "ad",
+    "probabilities": {
+      "content": 0.011230313701562241,
+      "ad": 0.9884843736083925,
+      "cookie": 8.586716327346073e-05,
+      "newsletter": 5.5592403632944606e-05,
+      "notification": 8.43027779856911e-05,
+      "paywall": 5.955034515330416e-05
+    }
+  },
+  {
+    "id": "ad-011-2",
+    "label": "ad",
+    "probabilities": {
+      "content": 0.011900745664954753,
+      "ad": 0.9876930405686736,
+      "cookie": 0.00015685035281449565,
+      "newsletter": 6.942897830886225e-05,
+      "notification": 8.245141922805124e-05,
+      "paywall": 9.748301602005001e-05
+    }
+  },
+  {
+    "id": "ad-011-3",
+    "label": "ad",
+    "probabilities": {
+      "content": 0.0006936584628311159,
+      "ad": 0.9992717265682666,
+      "cookie": 1.551773085234562e-05,
+      "newsletter": 7.309759449591119e-06,
+      "notification": 6.53791512314071e-06,
+      "paywall": 5.249563477479117e-06
+    }
+  },
+  {
+    "id": "ad-011-4",
+    "label": "ad",
+    "probabilities": {
+      "content": 0.007357286175250576,
+      "ad": 0.9851165480158497,
+      "cookie": 0.0028317092627140297,
+      "newsletter": 0.0011803390453777086,
+      "notification": 0.00196700161197871,
+      "paywall": 0.0015471158888293503
+    }
+  },
+  {
+    "id": "ad-011-5",
+    "label": "ad",
+    "probabilities": {
+      "content": 0.2507649212152932,
+      "ad": 0.7483231200230737,
+      "cookie": 0.00016123763074575858,
+      "newsletter": 0.00023394607425143024,
+      "notification": 0.00024684250573841045,
+      "paywall": 0.0002699325508977567
+    }
+  },
+  {
+    "id": "ad-011-6",
+    "label": "ad",
+    "probabilities": {
+      "content": 0.006285047968577558,
+      "ad": 0.9935671756517737,
+      "cookie": 2.4556889101464608e-05,
+      "newsletter": 2.524629749586554e-05,
+      "notification": 4.469556448506383e-05,
+      "paywall": 5.3277628566157835e-05
+    }
+  },
+  {
+    "id": "ad-011-7",
+    "label": "ad",
+    "probabilities": {
+      "content": 0.21027383291427995,
+      "ad": 0.789010552885036,
+      "cookie": 0.00016518500381367977,
+      "newsletter": 0.00017770810258773342,
+      "notification": 0.0001950365299354483,
+      "paywall": 0.00017768456434721146
+    }
+  },
+  {
+    "id": "ad-019-0",
+    "label": "ad",
+    "probabilities": {
+      "content": 0.20553138273019433,
+      "ad": 0.7882424076536579,
+      "cookie": 0.001735038691073253,
+      "newsletter": 0.0010423068760731374,
+      "notification": 0.0020469209264309526,
+      "paywall": 0.0014019431225702464
+    }
+  },
+  {
+    "id": "ad-019-1",
+    "label": "ad",
+    "probabilities": {
+      "content": 0.03232351245682592,
+      "ad": 0.9674306101865189,
+      "cookie": 8.222833823086179e-05,
+      "newsletter": 5.650640497029223e-05,
+      "notification": 5.7130386729387294e-05,
+      "paywall": 5.001222672452273e-05
+    }
+  },
+  {
+    "id": "ad-019-2",
+    "label": "ad",
+    "probabilities": {
+      "content": 0.03804679165429726,
+      "ad": 0.9613612530929616,
+      "cookie": 0.00021746711399109583,
+      "newsletter": 0.00011052866218109549,
+      "notification": 0.00013693549501529717,
+      "paywall": 0.00012702398155363842
+    }
+  },
+  {
+    "id": "ad-019-3",
+    "label": "ad",
+    "probabilities": {
+      "content": 0.5122150941830104,
+      "ad": 0.4839343511276583,
+      "cookie": 0.0011995030391991025,
+      "newsletter": 0.0007961262431792358,
+      "notification": 0.0011951593086186316,
+      "paywall": 0.0006597660983343787
+    }
+  },
+  {
+    "id": "ad-019-4",
+    "label": "ad",
+    "probabilities": {
+      "content": 0.0034347304827924024,
+      "ad": 0.9938968435330392,
+      "cookie": 0.0008555324643145804,
+      "newsletter": 0.0006046768151513596,
+      "notification": 0.0005675745155252145,
+      "paywall": 0.0006406421891773503
+    }
+  },
+  {
+    "id": "ad-019-5",
+    "label": "ad",
+    "probabilities": {
+      "content": 0.03609796897745441,
+      "ad": 0.9634746033648119,
+      "cookie": 7.188661429241389e-05,
+      "newsletter": 7.884802596945439e-05,
+      "notification": 0.00017029393404000974,
+      "paywall": 0.00010639908343168336
+    }
+  },
+  {
+    "id": "ad-019-6",
+    "label": "ad",
+    "probabilities": {
+      "content": 0.5603559418249514,
+      "ad": 0.4337786728521208,
+      "cookie": 0.0015661548130586486,
+      "newsletter": 0.0010771131384607387,
+      "notification": 0.001643812634017686,
+      "paywall": 0.0015783047373906654
+    }
+  },
+  {
+    "id": "ad-019-7",
+    "label": "ad",
+    "probabilities": {
+      "content": 0.005773861072792566,
+      "ad": 0.9941695847610863,
+      "cookie": 1.0510703323505766e-05,
+      "newsletter": 1.43974329583086e-05,
+      "notification": 1.5967504331299546e-05,
+      "paywall": 1.5678525507892323e-05
+    }
+  },
+  {
+    "id": "cookie-004-0",
+    "label": "cookie",
+    "probabilities": {
+      "content": 0.7222354895815228,
+      "ad": 0.023700270298597975,
+      "cookie": 0.2280333165631058,
+      "newsletter": 0.007277346859658537,
+      "notification": 0.008565539161782853,
+      "paywall": 0.010188037535331974
+    }
+  },
+  {
+    "id": "cookie-004-1",
+    "label": "cookie",
+    "probabilities": {
+      "content": 0.23157852962225628,
+      "ad": 0.005256437761626326,
+      "cookie": 0.6463382014361573,
+      "newsletter": 0.03456899826969919,
+      "notification": 0.04760473501481333,
+      "paywall": 0.03465309789544762
+    }
+  },
+  {
+    "id": "cookie-004-2",
+    "label": "cookie",
+    "probabilities": {
+      "content": 0.535032384518472,
+      "ad": 0.01838709265858632,
+      "cookie": 0.3986551340064719,
+      "newsletter": 0.012785379218949408,
+      "notification": 0.015993160914717253,
+      "paywall": 0.019146848682803218
+    }
+  },
+  {
+    "id": "cookie-004-3",
+    "label": "cookie",
+    "probabilities": {
+      "content": 0.48144616195075385,
+      "ad": 0.00775138798422674,
+      "cookie": 0.41276462556704546,
+      "newsletter": 0.030382722302667035,
+      "notification": 0.03608058923438145,
+      "paywall": 0.03157451296092553
+    }
+  },
+  {
+    "id": "cookie-004-4",
+    "label": "cookie",
+    "probabilities": {
+      "content": 0.573618677812545,
+      "ad": 0.016051785979272887,
+      "cookie": 0.3503944665693608,
+      "newsletter": 0.015288935174328114,
+      "notification": 0.018410556930928832,
+      "paywall": 0.026235577533564397
+    }
+  },
+  {
+    "id": "cookie-004-5",
+    "label": "cookie",
+    "probabilities": {
+      "content": 0.3859534713070124,
+      "ad": 0.003169204866916411,
+      "cookie": 0.4756881459473428,
+      "newsletter": 0.04047321975967648,
+      "notification": 0.04304549414665871,
+      "paywall": 0.051670463972393166
+    }
+  },
+  {
+    "id": "cookie-004-6",
+    "label": "cookie",
+    "probabilities": {
+      "content": 0.8561484605205588,
+      "ad": 0.013577123467044854,
+      "cookie": 0.10920827827301023,
+      "newsletter": 0.005827499091332824,
+      "notification": 0.007344185800295311,
+      "paywall": 0.007894452847757827
+    }
+  },
+  {
+    "id": "cookie-004-7",
+    "label": "cookie",
+    "probabilities": {
+      "content": 0.4119561127707945,
+      "ad": 0.002773077601415543,
+      "cookie": 0.4822595427133542,
+      "newsletter": 0.031725393495000365,
+      "notification": 0.0340362870176258,
+      "paywall": 0.03724958640180962
+    }
+  },
+  {
+    "id": "cookie-006-0",
+    "label": "cookie",
+    "probabilities": {
+      "content": 0.8328840536365874,
+      "ad": 0.016826260702428902,
+      "cookie": 0.10602669580075937,
+      "newsletter": 0.01502123069883912,
+      "notification": 0.012961744503488795,
+      "paywall": 0.01628001465789655
+    }
+  },
+  {
+    "id": "cookie-006-1",
+    "label": "cookie",
+    "probabilities": {
+      "content": 0.4098175361877971,
+      "ad": 0.0030803557621702825,
+      "cookie": 0.4153653000312084,
+      "newsletter": 0.06568693925178998,
+      "notification": 0.050620600730915316,
+      "paywall": 0.05542926803611895
+    }
+  },
+  {
+    "id": "cookie-006-2",
+    "label": "cookie",
+    "probabilities": {
+      "content": 0.5708875861980859,
+      "ad": 0.013139978017685365,
+      "cookie": 0.2802190753181659,
+      "newsletter": 0.03543574050198806,
+      "notification": 0.05595478831716746,
+      "paywall": 0.044362831646907214
+    }
+  },
+  {
+    "id": "cookie-006-3",
+    "label": "cookie",
+    "probabilities": {
+      "content": 0.6137456013761269,
+      "ad": 0.004242948936178155,
+      "cookie": 0.24915072323927634,
+      "newsletter": 0.051920313202233816,
+      "notification": 0.0357953862717808,
+      "paywall": 0.04514502697440418
+    }
+  },
+  {
+    "id": "cookie-006-4",
+    "label": "cookie",
+    "probabilities": {
+      "content": 0.5951076445005646,
+      "ad": 0.01722191037792615,
+      "cookie": 0.27649740869553324,
+      "newsletter": 0.03847982133558233,
+      "notification": 0.03270552648635947,
+      "paywall": 0.039987688604034136
+    }
+  },
+  {
+    "id": "cookie-006-5",
+    "label": "cookie",
+    "probabilities": {
+      "content": 0.42975778187807023,
+      "ad": 0.003950360949824006,
+      "cookie": 0.26012062433421534,
+      "newsletter": 0.057264841986722395,
+      "notification": 0.15614114480412938,
+      "paywall": 0.0927652460470386
+    }
+  },
+  {
+    "id": "cookie-006-6",
+    "label": "cookie",
+    "probabilities": {
+      "content": 0.8606612115681315,
+      "ad": 0.04084969137334041,
+      "cookie": 0.05275116212121024,
+      "newsletter": 0.009609373447726353,
+      "notification": 0.019243361429437545,
+      "paywall": 0.01688520006015418
+    }
+  },
+  {
+    "id": "cookie-006-7",
+    "label": "cookie",
+    "probabilities": {
+      "content": 0.5046533591603415,
+      "ad": 0.006011710272271613,
+      "cookie": 0.24141678308258824,
+      "newsletter": 0.05648207554802689,
+      "notification": 0.1019100370968486,
+      "paywall": 0.08952603483992311
+    }
+  },
+  {
+    "id": "cookie-010-0",
+    "label": "cookie",
+    "probabilities": {
+      "content": 0.005620795648065892,
+      "ad": 0.00026414633933661045,
+      "cookie": 0.9934515385757006,
+      "newsletter": 0.0003739920061000208,
+      "notification": 0.00015517455405285153,
+      "paywall": 0.000134352876744245
+    }
+  },
+  {
+    "id": "cookie-010-1",
+    "label": "cookie",
+    "probabilities": {
+      "content": 0.0008485223675816755,
+      "ad": 2.643097732359864e-05,
+      "cookie": 0.9981984283233569,
+      "newsletter": 0.0006043716865247338,
+      "notification": 0.0001440731682546979,
+      "paywall": 0.00017817347695833728
+    }
+  },
+  {
+    "id": "cookie-010-2",
+    "label": "cookie",
+    "probabilities": {
+      "content": 0.0021109698711340628,
+      "ad": 0.00012702473998091747,
+      "cookie": 0.9969110651330007,
+      "newsletter": 0.0005400392614354507,
+      "notification": 0.00012856737949185347,
+      "paywall": 0.00018233361495704128
+    }
+  },
+  {
+    "id": "cookie-010-3",
+    "label": "cookie",
+    "probabilities": {
+      "content": 0.002600762704638669,
+      "ad": 8.606965022556024e-05,
+      "cookie": 0.9960939321885083,
+      "newsletter": 0.0007793037111114435,
+      "notification": 0.00018890477931161667,
+      "paywall": 0.00025102696620449337
+    }
+  },
+  {
+    "id": "cookie-010-4",
+    "label": "cookie",
+    "probabilities": {
+      "content": 0.0022227315870125878,
+      "ad": 0.00010964504487928208,
+      "cookie": 0.9970200768065846,
+      "newsletter": 0.0004175933587843348,
+      "notification": 0.00010028460260449379,
+      "paywall": 0.00012966860013491327
+    }
+  },
+  {
+    "id": "cookie-010-5",
+    "label": "cookie",
+    "probabilities": {
+      "content": 0.0005673094066349467,
+      "ad": 1.9224641621979625e-05,
+      "cookie": 0.9985442138765269,
+      "newsletter": 0.0005337358175183667,
+      "notification": 0.00014344374043436344,
+      "paywall": 0.00019207251726366745
+    }
+  },
+  {
+    "id": "cookie-010-6",
+    "label": "cookie",
+    "probabilities": {
+      "content": 0.0032836066351380616,
+      "ad": 0.0002218574924949905,
+      "cookie": 0.9959096829354331,
+      "newsletter": 0.00035999989383740975,
+      "notification": 9.305840649075558e-05,
+      "paywall": 0.00013179463660574088
+    }
+  },
+  {
+    "id": "cookie-010-7",
+    "label": "cookie",
+    "probabilities": {
+      "content": 0.0004759550654683447,
+      "ad": 2.0557215210217082e-05,
+      "cookie": 0.9986618508001653,
+      "newsletter": 0.0005150308350437208,
+      "notification": 0.00014346247111521738,
+      "paywall": 0.0001831436129973944
+    }
+  },
+  {
+    "id": "cookie-011-0",
+    "label": "cookie",
+    "probabilities": {
+      "content": 0.12227976892338824,
+      "ad": 0.0012896767141847506,
+      "cookie": 0.8723584951106,
+      "newsletter": 0.001385071040683303,
+      "notification": 0.0018364913666900086,
+      "paywall": 0.0008504968444537767
+    }
+  },
+  {
+    "id": "cookie-011-1",
+    "label": "cookie",
+    "probabilities": {
+      "content": 0.026143943512167065,
+      "ad": 9.126168247499213e-05,
+      "cookie": 0.9682571398913571,
+      "newsletter": 0.002200878800627416,
+      "notification": 0.0023979062648365594,
+      "paywall": 0.00090886984853669
+    }
+  },
+  {
+    "id": "cookie-011-2",
+    "label": "cookie",
+    "probabilities": {
+      "content": 0.044823408963025245,
+      "ad": 0.0005073985886675696,
+      "cookie": 0.950332026360024,
+      "newsletter": 0.0015291843942574533,
+      "notification": 0.0018986857920769314,
+      "paywall": 0.0009092959019489055
+    }
+  },
+  {
+    "id": "cookie-011-3",
+    "label": "cookie",
+    "probabilities": {
+      "content": 0.0805675540962312,
+      "ad": 0.00025648733382459726,
+      "cookie": 0.9120720389923346,
+      "newsletter": 0.002730789135228685,
+      "notification": 0.0030800175579493196,
+      "paywall": 0.0012931128844316927
+    }
+  },
+  {
+    "id": "cookie-011-4",
+    "label": "cookie",
+    "probabilities": {
+      "content": 0.050308498652202126,
+      "ad": 0.00035307544586649623,
+      "cookie": 0.9438291857372213,
+      "newsletter": 0.0014256225058996758,
+      "notification": 0.0030536443107742586,
+      "paywall": 0.0010299733480360579
+    }
+  },
+  {
+    "id": "cookie-011-5",
+    "label": "cookie",
+    "probabilities": {
+      "content": 0.01060261014283696,
+      "ad": 0.00030361931074546493,
+      "cookie": 0.9802725762309645,
+      "newsletter": 0.0027307247538851786,
+      "notification": 0.003862433469946063,
+      "paywall": 0.002228036091621772
+    }
+  },
+  {
+    "id": "cookie-011-6",
+    "label": "cookie",
+    "probabilities": {
+      "content": 0.07144076428939573,
+      "ad": 0.00477703798848918,
+      "cookie": 0.9183564114594688,
+      "newsletter": 0.0016008326878500288,
+      "notification": 0.0023631670456836546,
+      "paywall": 0.001461786529112727
+    }
+  },
+  {
+    "id": "cookie-011-7",
+    "label": "cookie",
+    "probabilities": {
+      "content": 0.00989304787275614,
+      "ad": 0.00016912559639098613,
+      "cookie": 0.9797382801959219,
+      "newsletter": 0.002615393357604384,
+      "notification": 0.005331501655200544,
+      "paywall": 0.0022526513221261257
+    }
+  },
+  {
+    "id": "newsletter-004-0",
+    "label": "newsletter",
+    "probabilities": {
+      "content": 0.09799370027274502,
+      "ad": 0.004862572377303838,
+      "cookie": 0.006390324357090251,
+      "newsletter": 0.8355045806378034,
+      "notification": 0.022138522246394732,
+      "paywall": 0.03311030010866271
+    }
+  },
+  {
+    "id": "newsletter-004-1",
+    "label": "newsletter",
+    "probabilities": {
+      "content": 0.008259631122703498,
+      "ad": 0.00026527159946696226,
+      "cookie": 0.006233723419653484,
+      "newsletter": 0.9483039073564359,
+      "notification": 0.012019701703073189,
+      "paywall": 0.024917764798667082
+    }
+  },
+  {
+    "id": "newsletter-004-2",
+    "label": "newsletter",
+    "probabilities": {
+      "content": 0.038795543907929254,
+      "ad": 0.0031275403732944217,
+      "cookie": 0.006539029349243387,
+      "newsletter": 0.9039897874573678,
+      "notification": 0.015255604448825993,
+      "paywall": 0.03229249446333906
+    }
+  },
+  {
+    "id": "newsletter-004-3",
+    "label": "newsletter",
+    "probabilities": {
+      "content": 0.026961896541477067,
+      "ad": 0.0006259613070998118,
+      "cookie": 0.006475063092004369,
+      "newsletter": 0.9179067049446034,
+      "notification": 0.020022476678968486,
+      "paywall": 0.02800789743584692
+    }
+  },
+  {
+    "id": "newsletter-004-4",
+    "label": "newsletter",
+    "probabilities": {
+      "content": 0.0308218711011362,
+      "ad": 0.0025033372160904502,
+      "cookie": 0.0065521031678972465,
+      "newsletter": 0.9177261246859751,
+      "notification": 0.013290813104380194,
+      "paywall": 0.029105750724520662
+    }
+  },
+  {
+    "id": "newsletter-004-5",
+    "label": "newsletter",
+    "probabilities": {
+      "content": 0.03617142311938429,
+      "ad": 0.0023773150020532834,
+      "cookie": 0.0265316478044043,
+      "newsletter": 0.6602707031176095,
+      "notification": 0.06578499937275116,
+      "paywall": 0.20886391158379744
+    }
+  },
+  {
+    "id": "newsletter-004-6",
+    "label": "newsletter",
+    "probabilities": {
+      "content": 0.2084150608655591,
+      "ad": 0.04493448605568764,
+      "cookie": 0.018843455309986466,
+      "newsletter": 0.5132729004363003,
+      "notification": 0.046849417448958874,
+      "paywall": 0.1676846798835076
+    }
+  },
+  {
+    "id": "newsletter-004-7",
+    "label": "newsletter",
+    "probabilities": {
+      "content": 0.05123542482328306,
+      "ad": 0.004097879406766119,
+      "cookie": 0.034857976957272184,
+      "newsletter": 0.6373199893232985,
+      "notification": 0.07644786739892799,
+      "paywall": 0.1960408620904521
+    }
+  },
+  {
+    "id": "newsletter-006-0",
+    "label": "newsletter",
+    "probabilities": {
+      "content": 0.1193816533184282,
+      "ad": 0.008967418765352408,
+      "cookie": 0.010070773076655451,
+      "newsletter": 0.8475571206433784,
+      "notification": 0.00973564830297562,
+      "paywall": 0.00428738589320978
+    }
+  },
+  {
+    "id": "newsletter-006-1",
+    "label": "newsletter",
+    "probabilities": {
+      "content": 0.00887572194234105,
+      "ad": 0.0005559216822663523,
+      "cookie": 0.009075532313338727,
+      "newsletter": 0.9693358579471211,
+      "notification": 0.007254580866110604,
+      "paywall": 0.004902385248822084
+    }
+  },
+  {
+    "id": "newsletter-006-2",
+    "label": "newsletter",
+    "probabilities": {
+      "content": 0.042159537219564926,
+      "ad": 0.004196251674218316,
+      "cookie": 0.007704355687753749,
+      "newsletter": 0.9342536077036094,
+      "notification": 0.006757446296796223,
+      "paywall": 0.004928801418057607
+    }
+  },
+  {
+    "id": "newsletter-006-3",
+    "label": "newsletter",
+    "probabilities": {
+      "content": 0.03209030569346539,
+      "ad": 0.0011712223389247762,
+      "cookie": 0.009251414127907465,
+      "newsletter": 0.9399415137034738,
+      "notification": 0.011836246933309329,
+      "paywall": 0.005709297202919319
+    }
+  },
+  {
+    "id": "newsletter-006-4",
+    "label": "newsletter",
+    "probabilities": {
+      "content": 0.03482345184945146,
+      "ad": 0.004578752010315321,
+      "cookie": 0.010538873563856826,
+      "newsletter": 0.9397581726344632,
+      "notification": 0.006338290518663699,
+      "paywall": 0.0039624594232495446
+    }
+  },
+  {
+    "id": "newsletter-006-5",
+    "label": "newsletter",
+    "probabilities": {
+      "content": 0.01964191504309229,
+      "ad": 0.0016106628378996786,
+      "cookie": 0.014032159023874266,
+      "newsletter": 0.9493761317084537,
+      "notification": 0.008949172557403016,
+      "paywall": 0.006389958829277225
+    }
+  },
+  {
+    "id": "newsletter-006-6",
+    "label": "newsletter",
+    "probabilities": {
+      "content": 0.13626364024385934,
+      "ad": 0.039758925951666316,
+      "cookie": 0.01046197232943456,
+      "newsletter": 0.801406749152792,
+      "notification": 0.0071969638477831135,
+      "paywall": 0.004911748474464874
+    }
+  },
+  {
+    "id": "newsletter-006-7",
+    "label": "newsletter",
+    "probabilities": {
+      "content": 0.018508955702627585,
+      "ad": 0.001488937963174423,
+      "cookie": 0.015480805431751274,
+      "newsletter": 0.9415334341295158,
+      "notification": 0.01570536420592997,
+      "paywall": 0.007282502567001001
+    }
+  },
+  {
+    "id": "newsletter-010-0",
+    "label": "newsletter",
+    "probabilities": {
+      "content": 0.04469699179433365,
+      "ad": 0.0033336615235659535,
+      "cookie": 0.04242125567894111,
+      "newsletter": 0.8296912085398012,
+      "notification": 0.004624140409639724,
+      "paywall": 0.07523274205371834
+    }
+  },
+  {
+    "id": "newsletter-010-1",
+    "label": "newsletter",
+    "probabilities": {
+      "content": 0.006222152536693464,
+      "ad": 0.00017795875196166774,
+      "cookie": 0.04011285576275455,
+      "newsletter": 0.8737016189154506,
+      "notification": 0.005624244138290213,
+      "paywall": 0.07416116989484946
+    }
+  },
+  {
+    "id": "newsletter-010-2",
+    "label": "newsletter",
+    "probabilities": {
+      "content": 0.0225089983390092,
+      "ad": 0.0013941441622497973,
+      "cookie": 0.042101614462640415,
+      "newsletter": 0.8423550262137669,
+      "notification": 0.005067891747711941,
+      "paywall": 0.08657232507462186
+    }
+  },
+  {
+    "id": "newsletter-010-3",
+    "label": "newsletter",
+    "probabilities": {
+      "content": 0.015602726636098765,
+      "ad": 0.00034406197691490265,
+      "cookie": 0.03932461138135206,
+      "newsletter": 0.8690450225966118,
+      "notification": 0.005118677213533076,
+      "paywall": 0.07056490019548944
+    }
+  },
+  {
+    "id": "newsletter-010-4",
+    "label": "newsletter",
+    "probabilities": {
+      "content": 0.018581735193804103,
+      "ad": 0.0008880383394546618,
+      "cookie": 0.045086071313157505,
+      "newsletter": 0.8382871903063869,
+      "notification": 0.007697109789169417,
+      "paywall": 0.08945985505802746
+    }
+  },
+  {
+    "id": "newsletter-010-5",
+    "label": "newsletter",
+    "probabilities": {
+      "content": 0.023765897205072332,
+      "ad": 0.0011151134139765905,
+      "cookie": 0.009650920652203509,
+      "newsletter": 0.6250164484919418,
+      "notification": 0.020250676026368243,
+      "paywall": 0.32020094421043743
+    }
+  },
+  {
+    "id": "newsletter-010-6",
+    "label": "newsletter",
+    "probabilities": {
+      "content": 0.14721992536445297,
+      "ad": 0.028365871456300044,
+      "cookie": 0.006942030105590089,
+      "newsletter": 0.532643693053408,
+      "notification": 0.01374019801012934,
+      "paywall": 0.27108828201011975
+    }
+  },
+  {
+    "id": "newsletter-010-7",
+    "label": "newsletter",
+    "probabilities": {
+      "content": 0.019285824854472545,
+      "ad": 0.000917864079900051,
+      "cookie": 0.009922730828428353,
+      "newsletter": 0.6598627812579995,
+      "notification": 0.017881688962370534,
+      "paywall": 0.2921291100168292
+    }
+  },
+  {
+    "id": "newsletter-011-0",
+    "label": "newsletter",
+    "probabilities": {
+      "content": 0.043536003603302564,
+      "ad": 0.005576442798211972,
+      "cookie": 0.0027924296195006304,
+      "newsletter": 0.9405087318292724,
+      "notification": 0.004378148619143032,
+      "paywall": 0.0032082435305693458
+    }
+  },
+  {
+    "id": "newsletter-011-1",
+    "label": "newsletter",
+    "probabilities": {
+      "content": 0.005757153971806908,
+      "ad": 0.0004410270947089823,
+      "cookie": 0.0038344492398937075,
+      "newsletter": 0.983958373509633,
+      "notification": 0.003162124709635237,
+      "paywall": 0.002846871474322107
+    }
+  },
+  {
+    "id": "newsletter-011-2",
+    "label": "newsletter",
+    "probabilities": {
+      "content": 0.0171628387403027,
+      "ad": 0.0018512107976217732,
+      "cookie": 0.0027444018449815553,
+      "newsletter": 0.9709123237678994,
+      "notification": 0.004083515985595577,
+      "paywall": 0.0032457088635989115
+    }
+  },
+  {
+    "id": "newsletter-011-3",
+    "label": "newsletter",
+    "probabilities": {
+      "content": 0.014864795191590275,
+      "ad": 0.000992842139500108,
+      "cookie": 0.0028605473922393453,
+      "newsletter": 0.9749479540410506,
+      "notification": 0.0031575618538969602,
+      "paywall": 0.003176299381722783
+    }
+  },
+  {
+    "id": "newsletter-011-4",
+    "label": "newsletter",
+    "probabilities": {
+      "content": 0.01696452982870708,
+      "ad": 0.0029464188062624723,
+      "cookie": 0.003504573540145295,
+      "newsletter": 0.9713980301169591,
+      "notification": 0.002674068959251575,
+      "paywall": 0.0025123787486744284
+    }
+  },
+  {
+    "id": "newsletter-011-5",
+    "label": "newsletter",
+    "probabilities": {
+      "content": 0.004777316420526852,
+      "ad": 0.0007620767696748344,
+      "cookie": 0.00287902721245284,
+      "newsletter": 0.9864671014414776,
+      "notification": 0.0023910290860769835,
+      "paywall": 0.0027234490697909987
+    }
+  },
+  {
+    "id": "newsletter-011-6",
+    "label": "newsletter",
+    "probabilities": {
+      "content": 0.03965661448385304,
+      "ad": 0.015412228263456508,
+      "cookie": 0.0029074033945982957,
+      "newsletter": 0.9385077963439683,
+      "notification": 0.0017165596249871797,
+      "paywall": 0.0017993978891366878
+    }
+  },
+  {
+    "id": "newsletter-011-7",
+    "label": "newsletter",
+    "probabilities": {
+      "content": 0.003826108362347846,
+      "ad": 0.0006125639200743368,
+      "cookie": 0.002847586881281762,
+      "newsletter": 0.9881991820964597,
+      "notification": 0.0020744963173533523,
+      "paywall": 0.002440062422483279
+    }
+  },
+  {
+    "id": "notification-004-0",
+    "label": "notification",
+    "probabilities": {
+      "content": 0.20203237835738125,
+      "ad": 0.004077701646123048,
+      "cookie": 0.0033651432000978954,
+      "newsletter": 0.006101047823410737,
+      "notification": 0.781420537196212,
+      "paywall": 0.003003191776775101
+    }
+  },
+  {
+    "id": "notification-004-1",
+    "label": "notification",
+    "probabilities": {
+      "content": 0.03132388088208805,
+      "ad": 0.00043256251126485207,
+      "cookie": 0.00642153320300556,
+      "newsletter": 0.019655667518747165,
+      "notification": 0.9344920881470424,
+      "paywall": 0.007674267737851835
+    }
+  },
+  {
+    "id": "notification-004-2",
+    "label": "notification",
+    "probabilities": {
+      "content": 0.09572425622960297,
+      "ad": 0.003477785844094008,
+      "cookie": 0.004236618945845556,
+      "newsletter": 0.010666045342540535,
+      "notification": 0.880412252626477,
+      "paywall": 0.005483041011439821
+    }
+  },
+  {
+    "id": "notification-004-3",
+    "label": "notification",
+    "probabilities": {
+      "content": 0.060227769556901165,
+      "ad": 0.0005654964464998543,
+      "cookie": 0.00391589254882172,
+      "newsletter": 0.010926901481227089,
+      "notification": 0.919295693649313,
+      "paywall": 0.005068246317237275
+    }
+  },
+  {
+    "id": "notification-004-4",
+    "label": "notification",
+    "probabilities": {
+      "content": 0.052462222337726204,
+      "ad": 0.0015512252954997488,
+      "cookie": 0.0031474044751599126,
+      "newsletter": 0.007326014044284,
+      "notification": 0.9315395180500898,
+      "paywall": 0.003973615797240266
+    }
+  },
+  {
+    "id": "notification-004-5",
+    "label": "notification",
+    "probabilities": {
+      "content": 0.028726188375253276,
+      "ad": 0.0008917454141935981,
+      "cookie": 0.00786395030336022,
+      "newsletter": 0.013494120600308836,
+      "notification": 0.9363999964964012,
+      "paywall": 0.012623998810483013
+    }
+  },
+  {
+    "id": "notification-004-6",
+    "label": "notification",
+    "probabilities": {
+      "content": 0.27419433181295233,
+      "ad": 0.03845368694995024,
+      "cookie": 0.006167858728437557,
+      "newsletter": 0.010500495469075413,
+      "notification": 0.6602448127399916,
+      "paywall": 0.010438814299592713
+    }
+  },
+  {
+    "id": "notification-004-7",
+    "label": "notification",
+    "probabilities": {
+      "content": 0.06967975619463272,
+      "ad": 0.002623408062289967,
+      "cookie": 0.014062262136119429,
+      "newsletter": 0.020041246746668958,
+      "notification": 0.8781686894949616,
+      "paywall": 0.015424637365327228
+    }
+  },
+  {
+    "id": "notification-006-0",
+    "label": "notification",
+    "probabilities": {
+      "content": 0.2610202068134315,
+      "ad": 0.13195694672005662,
+      "cookie": 0.006191329773081967,
+      "newsletter": 0.023967578817176507,
+      "notification": 0.5578765786108405,
+      "paywall": 0.018987359265412857
+    }
+  },
+  {
+    "id": "notification-006-1",
+    "label": "notification",
+    "probabilities": {
+      "content": 0.033776120413782,
+      "ad": 0.005625029635629753,
+      "cookie": 0.011062155612590302,
+      "newsletter": 0.06364113363540377,
+      "notification": 0.8433961843793596,
+      "paywall": 0.04249937632323457
+    }
+  },
+  {
+    "id": "notification-006-2",
+    "label": "notification",
+    "probabilities": {
+      "content": 0.06445097766305419,
+      "ad": 0.022881922593977592,
+      "cookie": 0.005274410558840489,
+      "newsletter": 0.025582358658117955,
+      "notification": 0.8576231918678306,
+      "paywall": 0.024187138658179095
+    }
+  },
+  {
+    "id": "notification-006-3",
+    "label": "notification",
+    "probabilities": {
+      "content": 0.08457995395162832,
+      "ad": 0.016558283624368186,
+      "cookie": 0.008680522948639148,
+      "newsletter": 0.046914105578675064,
+      "notification": 0.8070724164559453,
+      "paywall": 0.0361947174407441
+    }
+  },
+  {
+    "id": "notification-006-4",
+    "label": "notification",
+    "probabilities": {
+      "content": 0.07018726713707682,
+      "ad": 0.030636156176814686,
+      "cookie": 0.006822780148235211,
+      "newsletter": 0.02463869831369428,
+      "notification": 0.8477110577135215,
+      "paywall": 0.02000404051065757
+    }
+  },
+  {
+    "id": "notification-006-5",
+    "label": "notification",
+    "probabilities": {
+      "content": 0.09934987351319921,
+      "ad": 0.020246508988891226,
+      "cookie": 0.02076700442811814,
+      "newsletter": 0.08529550618016446,
+      "notification": 0.6695680105918852,
+      "paywall": 0.10477309629774176
+    }
+  },
+  {
+    "id": "notification-006-6",
+    "label": "notification",
+    "probabilities": {
+      "content": 0.3476380429997197,
+      "ad": 0.2790035391334402,
+      "cookie": 0.007597203934585854,
+      "newsletter": 0.030835094217555793,
+      "notification": 0.292773323851368,
+      "paywall": 0.04215279586333033
+    }
+  },
+  {
+    "id": "notification-006-7",
+    "label": "notification",
+    "probabilities": {
+      "content": 0.08175253898299495,
+      "ad": 0.022235591567832877,
+      "cookie": 0.020986622253491526,
+      "newsletter": 0.08354858441871676,
+      "notification": 0.6898606888805293,
+      "paywall": 0.1016159738964346
+    }
+  },
+  {
+    "id": "notification-010-0",
+    "label": "notification",
+    "probabilities": {
+      "content": 0.06037351984240157,
+      "ad": 0.00262625435205299,
+      "cookie": 0.002033385869384021,
+      "newsletter": 0.0015111651940649083,
+      "notification": 0.9320198883907416,
+      "paywall": 0.0014357863513550185
+    }
+  },
+  {
+    "id": "notification-010-1",
+    "label": "notification",
+    "probabilities": {
+      "content": 0.00827062174713399,
+      "ad": 0.00011948421604430564,
+      "cookie": 0.0033040973312245866,
+      "newsletter": 0.0028541176725062622,
+      "notification": 0.9832396768229684,
+      "paywall": 0.0022120022101224427
+    }
+  },
+  {
+    "id": "notification-010-2",
+    "label": "notification",
+    "probabilities": {
+      "content": 0.021172180177276317,
+      "ad": 0.0013296458438891861,
+      "cookie": 0.0028173199373809315,
+      "newsletter": 0.0015538732321442913,
+      "notification": 0.9718538239357973,
+      "paywall": 0.0012731568735119812
+    }
+  },
+  {
+    "id": "notification-010-3",
+    "label": "notification",
+    "probabilities": {
+      "content": 0.027461797380590496,
+      "ad": 0.000424355023059612,
+      "cookie": 0.004138237846686561,
+      "newsletter": 0.0026250085701730185,
+      "notification": 0.9635664599527032,
+      "paywall": 0.0017841412267870572
+    }
+  },
+  {
+    "id": "notification-010-4",
+    "label": "notification",
+    "probabilities": {
+      "content": 0.013248010241028767,
+      "ad": 0.00046284980639995114,
+      "cookie": 0.0013240857456195084,
+      "newsletter": 0.0009090798849024581,
+      "notification": 0.9830567084375843,
+      "paywall": 0.0009992658844651591
+    }
+  },
+  {
+    "id": "notification-010-5",
+    "label": "notification",
+    "probabilities": {
+      "content": 0.013057215555422594,
+      "ad": 0.00041273447109422157,
+      "cookie": 0.00497853550389939,
+      "newsletter": 0.0050947122877234175,
+      "notification": 0.9706774117974442,
+      "paywall": 0.005779390384416398
+    }
+  },
+  {
+    "id": "notification-010-6",
+    "label": "notification",
+    "probabilities": {
+      "content": 0.1156326002588844,
+      "ad": 0.010826094764053893,
+      "cookie": 0.004121682403989367,
+      "newsletter": 0.0028747219133996617,
+      "notification": 0.863214085521171,
+      "paywall": 0.003330815138501782
+    }
+  },
+  {
+    "id": "notification-010-7",
+    "label": "notification",
+    "probabilities": {
+      "content": 0.03659121114248207,
+      "ad": 0.001164461080826423,
+      "cookie": 0.009201161664778914,
+      "newsletter": 0.00797346174845357,
+      "notification": 0.9373015702968629,
+      "paywall": 0.007768134066596209
+    }
+  },
+  {
+    "id": "notification-011-0",
+    "label": "notification",
+    "probabilities": {
+      "content": 0.1749542768330485,
+      "ad": 0.07533755821170762,
+      "cookie": 0.004968554573983521,
+      "newsletter": 0.006976237969654347,
+      "notification": 0.7139715202885586,
+      "paywall": 0.023791852123047387
+    }
+  },
+  {
+    "id": "notification-011-1",
+    "label": "notification",
+    "probabilities": {
+      "content": 0.029852964641852855,
+      "ad": 0.004827480630570714,
+      "cookie": 0.0076424147101905385,
+      "newsletter": 0.01250673351914844,
+      "notification": 0.9092570204621283,
+      "paywall": 0.03591338603610919
+    }
+  },
+  {
+    "id": "notification-011-2",
+    "label": "notification",
+    "probabilities": {
+      "content": 0.0428874591878432,
+      "ad": 0.01614545403219162,
+      "cookie": 0.003933214464303088,
+      "newsletter": 0.005066819796361138,
+      "notification": 0.9116409597433045,
+      "paywall": 0.020326092775996438
+    }
+  },
+  {
+    "id": "notification-011-3",
+    "label": "notification",
+    "probabilities": {
+      "content": 0.05425301031616825,
+      "ad": 0.005123781702445464,
+      "cookie": 0.005136446842289795,
+      "newsletter": 0.00799289739459065,
+      "notification": 0.9024410987822017,
+      "paywall": 0.025052764962304
+    }
+  },
+  {
+    "id": "notification-011-4",
+    "label": "notification",
+    "probabilities": {
+      "content": 0.06546047078834247,
+      "ad": 0.01846484768837129,
+      "cookie": 0.005094837906558711,
+      "newsletter": 0.005159514735454292,
+      "notification": 0.8874642696005173,
+      "paywall": 0.018356059280756083
+    }
+  },
+  {
+    "id": "notification-011-5",
+    "label": "notification",
+    "probabilities": {
+      "content": 0.04655976140665203,
+      "ad": 0.01887310275077482,
+      "cookie": 0.017212326803760877,
+      "newsletter": 0.027059091161249903,
+      "notification": 0.7866163339176602,
+      "paywall": 0.10367938395990224
+    }
+  },
+  {
+    "id": "notification-011-6",
+    "label": "notification",
+    "probabilities": {
+      "content": 0.1788892034303974,
+      "ad": 0.3145093605535521,
+      "cookie": 0.007637998767505034,
+      "newsletter": 0.010974549098774303,
+      "notification": 0.436208790214674,
+      "paywall": 0.051780097935097275
+    }
+  },
+  {
+    "id": "notification-011-7",
+    "label": "notification",
+    "probabilities": {
+      "content": 0.0465563374710596,
+      "ad": 0.020455246999901765,
+      "cookie": 0.025395743970147277,
+      "newsletter": 0.030455679529548405,
+      "notification": 0.784657815224367,
+      "paywall": 0.09247917680497612
+    }
+  },
+  {
+    "id": "paywall-004-0",
+    "label": "paywall",
+    "probabilities": {
+      "content": 0.19481117210113447,
+      "ad": 0.03233786920458724,
+      "cookie": 0.019956970826868925,
+      "newsletter": 0.020259473133881094,
+      "notification": 0.035430515642634504,
+      "paywall": 0.6972039990908937
+    }
+  },
+  {
+    "id": "paywall-004-1",
+    "label": "paywall",
+    "probabilities": {
+      "content": 0.02371727107702306,
+      "ad": 0.0015708483112547723,
+      "cookie": 0.03239842883126024,
+      "newsletter": 0.03925740002052899,
+      "notification": 0.05673838276420591,
+      "paywall": 0.846317668995727
+    }
+  },
+  {
+    "id": "paywall-004-2",
+    "label": "paywall",
+    "probabilities": {
+      "content": 0.04931295768300934,
+      "ad": 0.008003406025097028,
+      "cookie": 0.024285044225005114,
+      "newsletter": 0.022622568878600518,
+      "notification": 0.0641707922044983,
+      "paywall": 0.8316052309837897
+    }
+  },
+  {
+    "id": "paywall-004-3",
+    "label": "paywall",
+    "probabilities": {
+      "content": 0.05645290150155708,
+      "ad": 0.004541088865878995,
+      "cookie": 0.03181615810540282,
+      "newsletter": 0.03655031562736553,
+      "notification": 0.059258460518296564,
+      "paywall": 0.8113810753814992
+    }
+  },
+  {
+    "id": "paywall-004-4",
+    "label": "paywall",
+    "probabilities": {
+      "content": 0.0763508594272941,
+      "ad": 0.015831770895073396,
+      "cookie": 0.0380952883505299,
+      "newsletter": 0.029538357352803076,
+      "notification": 0.04423526035638597,
+      "paywall": 0.7959484636179136
+    }
+  },
+  {
+    "id": "paywall-004-5",
+    "label": "paywall",
+    "probabilities": {
+      "content": 0.07087128975936731,
+      "ad": 0.008354263195839503,
+      "cookie": 0.07118391215999592,
+      "newsletter": 0.09707717822900969,
+      "notification": 0.13874112190994517,
+      "paywall": 0.6137722347458424
+    }
+  },
+  {
+    "id": "paywall-004-6",
+    "label": "paywall",
+    "probabilities": {
+      "content": 0.2983130421248847,
+      "ad": 0.11605667247999919,
+      "cookie": 0.035341860149577964,
+      "newsletter": 0.039111331611342275,
+      "notification": 0.12041936077075144,
+      "paywall": 0.39075773286344434
+    }
+  },
+  {
+    "id": "paywall-004-7",
+    "label": "paywall",
+    "probabilities": {
+      "content": 0.08324965696500937,
+      "ad": 0.009652869086050665,
+      "cookie": 0.0630828028788904,
+      "newsletter": 0.08484104860928113,
+      "notification": 0.1443987825290286,
+      "paywall": 0.6147748399317399
+    }
+  },
+  {
+    "id": "paywall-006-0",
+    "label": "paywall",
+    "probabilities": {
+      "content": 0.19094223927315856,
+      "ad": 0.0091860617616377,
+      "cookie": 0.013657820711081192,
+      "newsletter": 0.16406604837416677,
+      "notification": 0.019922789909857835,
+      "paywall": 0.6022250399700979
+    }
+  },
+  {
+    "id": "paywall-006-1",
+    "label": "paywall",
+    "probabilities": {
+      "content": 0.01703339166017098,
+      "ad": 0.00043540951292911595,
+      "cookie": 0.012999234948913974,
+      "newsletter": 0.2087833814175661,
+      "notification": 0.023626260322510074,
+      "paywall": 0.7371223221379098
+    }
+  },
+  {
+    "id": "paywall-006-2",
+    "label": "paywall",
+    "probabilities": {
+      "content": 0.06943331149584508,
+      "ad": 0.002861763371152854,
+      "cookie": 0.015162093256171483,
+      "newsletter": 0.16983405973846044,
+      "notification": 0.03345900812370607,
+      "paywall": 0.7092497640146641
+    }
+  },
+  {
+    "id": "paywall-006-3",
+    "label": "paywall",
+    "probabilities": {
+      "content": 0.05131398470448218,
+      "ad": 0.0011683954964018027,
+      "cookie": 0.012455696633501821,
+      "newsletter": 0.19904151336391235,
+      "notification": 0.02341561330450838,
+      "paywall": 0.7126047964971935
+    }
+  },
+  {
+    "id": "paywall-006-4",
+    "label": "paywall",
+    "probabilities": {
+      "content": 0.049331467764300606,
+      "ad": 0.002129036747341176,
+      "cookie": 0.010648199835128049,
+      "newsletter": 0.15725173413588067,
+      "notification": 0.031266570155166214,
+      "paywall": 0.7493729913621833
+    }
+  },
+  {
+    "id": "paywall-006-5",
+    "label": "paywall",
+    "probabilities": {
+      "content": 0.017744612608967127,
+      "ad": 0.0009022385824255335,
+      "cookie": 0.016280240541569242,
+      "newsletter": 0.2738515786815907,
+      "notification": 0.03565218987272292,
+      "paywall": 0.6555691397127243
+    }
+  },
+  {
+    "id": "paywall-006-6",
+    "label": "paywall",
+    "probabilities": {
+      "content": 0.1970993500734862,
+      "ad": 0.02712763227124525,
+      "cookie": 0.014636450960232077,
+      "newsletter": 0.22151513978373738,
+      "notification": 0.016992634173851478,
+      "paywall": 0.5226287927374476
+    }
+  },
+  {
+    "id": "paywall-006-7",
+    "label": "paywall",
+    "probabilities": {
+      "content": 0.02548729517780569,
+      "ad": 0.0012349225439047952,
+      "cookie": 0.015092143861779435,
+      "newsletter": 0.27982823604627965,
+      "notification": 0.02360839962140087,
+      "paywall": 0.6547490027488295
+    }
+  },
+  {
+    "id": "paywall-010-0",
+    "label": "paywall",
+    "probabilities": {
+      "content": 0.5980076480670721,
+      "ad": 0.17913682269673578,
+      "cookie": 0.03530524230575453,
+      "newsletter": 0.011301995596708653,
+      "notification": 0.030662520842282555,
+      "paywall": 0.1455857704914463
+    }
+  },
+  {
+    "id": "paywall-010-1",
+    "label": "paywall",
+    "probabilities": {
+      "content": 0.1649750134712484,
+      "ad": 0.01969001266574178,
+      "cookie": 0.1367938764813915,
+      "newsletter": 0.05551949189089392,
+      "notification": 0.10467317323005038,
+      "paywall": 0.518348432260674
+    }
+  },
+  {
+    "id": "paywall-010-2",
+    "label": "paywall",
+    "probabilities": {
+      "content": 0.35883789015586093,
+      "ad": 0.09398302876968058,
+      "cookie": 0.08522508766299328,
+      "newsletter": 0.025572736908943204,
+      "notification": 0.09988546891116308,
+      "paywall": 0.3364957875913589
+    }
+  },
+  {
+    "id": "paywall-010-3",
+    "label": "paywall",
+    "probabilities": {
+      "content": 0.3405159415158645,
+      "ad": 0.033087374673967,
+      "cookie": 0.07698822269107762,
+      "newsletter": 0.041483521162967205,
+      "notification": 0.07663009451134374,
+      "paywall": 0.43129484544478014
+    }
+  },
+  {
+    "id": "paywall-010-4",
+    "label": "paywall",
+    "probabilities": {
+      "content": 0.46028790908829564,
+      "ad": 0.1150799387194814,
+      "cookie": 0.06698042745789223,
+      "newsletter": 0.022424430092790732,
+      "notification": 0.054340421658336524,
+      "paywall": 0.2808868729832034
+    }
+  },
+  {
+    "id": "paywall-010-5",
+    "label": "paywall",
+    "probabilities": {
+      "content": 0.10524797737531413,
+      "ad": 0.049777858266488756,
+      "cookie": 0.09073623857391253,
+      "newsletter": 0.05293095068530324,
+      "notification": 0.1584629587814106,
+      "paywall": 0.5428440163175706
+    }
+  },
+  {
+    "id": "paywall-010-6",
+    "label": "paywall",
+    "probabilities": {
+      "content": 0.33060009872957213,
+      "ad": 0.3322509663359177,
+      "cookie": 0.028479637785537488,
+      "newsletter": 0.013621066837115113,
+      "notification": 0.08031158622049564,
+      "paywall": 0.2147366440913619
+    }
+  },
+  {
+    "id": "paywall-010-7",
+    "label": "paywall",
+    "probabilities": {
+      "content": 0.15967472613169498,
+      "ad": 0.0553277522359256,
+      "cookie": 0.11358212499026625,
+      "newsletter": 0.05230365517838474,
+      "notification": 0.14769757439746511,
+      "paywall": 0.47141416706626327
+    }
+  },
+  {
+    "id": "paywall-011-0",
+    "label": "paywall",
+    "probabilities": {
+      "content": 0.23523790814929132,
+      "ad": 0.3495062730889636,
+      "cookie": 0.057982269966202614,
+      "newsletter": 0.015908492157993535,
+      "notification": 0.020330854884833147,
+      "paywall": 0.32103420175271585
+    }
+  },
+  {
+    "id": "paywall-011-1",
+    "label": "paywall",
+    "probabilities": {
+      "content": 0.058145429085505976,
+      "ad": 0.021100457763980923,
+      "cookie": 0.12624596923538492,
+      "newsletter": 0.04404942325013719,
+      "notification": 0.070327826797616,
+      "paywall": 0.680130893867375
+    }
+  },
+  {
+    "id": "paywall-011-2",
+    "label": "paywall",
+    "probabilities": {
+      "content": 0.14229731090945139,
+      "ad": 0.17097541300557795,
+      "cookie": 0.061351231792908606,
+      "newsletter": 0.02318925621840508,
+      "notification": 0.0300960554142912,
+      "paywall": 0.5720907326593658
+    }
+  },
+  {
+    "id": "paywall-011-3",
+    "label": "paywall",
+    "probabilities": {
+      "content": 0.16547866579779785,
+      "ad": 0.05402071994852592,
+      "cookie": 0.07247845919903759,
+      "newsletter": 0.036688454298622095,
+      "notification": 0.03964416445081954,
+      "paywall": 0.631689536305197
+    }
+  },
+  {
+    "id": "paywall-011-4",
+    "label": "paywall",
+    "probabilities": {
+      "content": 0.14469823698095952,
+      "ad": 0.14156469519439618,
+      "cookie": 0.09030112246509632,
+      "newsletter": 0.023751267698456348,
+      "notification": 0.048173289038051514,
+      "paywall": 0.55151138862304
+    }
+  },
+  {
+    "id": "paywall-011-5",
+    "label": "paywall",
+    "probabilities": {
+      "content": 0.0462092862833586,
+      "ad": 0.03528080436645269,
+      "cookie": 0.12634468758617617,
+      "newsletter": 0.02728379750862043,
+      "notification": 0.09656947716384105,
+      "paywall": 0.6683119470915512
+    }
+  },
+  {
+    "id": "paywall-011-6",
+    "label": "paywall",
+    "probabilities": {
+      "content": 0.13022225065134582,
+      "ad": 0.5551215629357976,
+      "cookie": 0.04418418267386888,
+      "newsletter": 0.00847600587881563,
+      "notification": 0.018087932500867827,
+      "paywall": 0.24390806535930426
+    }
+  },
+  {
+    "id": "paywall-011-7",
+    "label": "paywall",
+    "probabilities": {
+      "content": 0.04930621948127531,
+      "ad": 0.031316376920069826,
+      "cookie": 0.12166527584311289,
+      "newsletter": 0.026776707945177114,
+      "notification": 0.09411435846382428,
+      "paywall": 0.6768210613465405
+    }
+  },
+  {
+    "id": "content-008-0",
+    "label": "content",
+    "probabilities": {
+      "content": 0.7768038289536813,
+      "ad": 0.0050668432593391245,
+      "cookie": 0.0068776615069108095,
+      "newsletter": 0.16321993019551242,
+      "notification": 0.008516836677654448,
+      "paywall": 0.03951489940690165
+    }
+  },
+  {
+    "id": "content-008-1",
+    "label": "content",
+    "probabilities": {
+      "content": 0.47549842736332226,
+      "ad": 0.0021006378697978295,
+      "cookie": 0.01937750321291711,
+      "newsletter": 0.36687053535983083,
+      "notification": 0.03950169320516892,
+      "paywall": 0.09665120298896303
+    }
+  },
+  {
+    "id": "content-008-2",
+    "label": "content",
+    "probabilities": {
+      "content": 0.8089823032900156,
+      "ad": 0.007874144030909264,
+      "cookie": 0.006595093423560902,
+      "newsletter": 0.1223104201563553,
+      "notification": 0.010019686135817895,
+      "paywall": 0.04421835296334101
+    }
+  },
+  {
+    "id": "content-008-3",
+    "label": "content",
+    "probabilities": {
+      "content": 0.41526792718500827,
+      "ad": 0.0010543161526906963,
+      "cookie": 0.013507937695052725,
+      "newsletter": 0.45861199471263686,
+      "notification": 0.022276724217403468,
+      "paywall": 0.089281100037208
+    }
+  },
+  {
+    "id": "content-008-4",
+    "label": "content",
+    "probabilities": {
+      "content": 0.754476606075339,
+      "ad": 0.009426194476619285,
+      "cookie": 0.00893110734214818,
+      "newsletter": 0.16399082640706175,
+      "notification": 0.011848052128608757,
+      "paywall": 0.0513272135702233
+    }
+  },
+  {
+    "id": "content-008-5",
+    "label": "content",
+    "probabilities": {
+      "content": 0.27535580787814307,
+      "ad": 0.006923607270609947,
+      "cookie": 0.018603639589372223,
+      "newsletter": 0.47434047577329047,
+      "notification": 0.033956791289350995,
+      "paywall": 0.19081967819923326
+    }
+  },
+  {
+    "id": "content-008-6",
+    "label": "content",
+    "probabilities": {
+      "content": 0.30874317583013045,
+      "ad": 0.022510743163900265,
+      "cookie": 0.009479455647225873,
+      "newsletter": 0.49717446425001244,
+      "notification": 0.017054120079692685,
+      "paywall": 0.14503804102903844
+    }
+  },
+  {
+    "id": "content-008-7",
+    "label": "content",
+    "probabilities": {
+      "content": 0.33372509733542816,
+      "ad": 0.007798492993340228,
+      "cookie": 0.01657774772875954,
+      "newsletter": 0.42248164286094086,
+      "notification": 0.03371887937648164,
+      "paywall": 0.18569813970504945
+    }
+  },
+  {
+    "id": "content-012-0",
+    "label": "content",
+    "probabilities": {
+      "content": 0.8953274112519529,
+      "ad": 0.01812915194927747,
+      "cookie": 0.02776017044711063,
+      "newsletter": 0.009454840658021135,
+      "notification": 0.02884059748496519,
+      "paywall": 0.020487828208672502
+    }
+  },
+  {
+    "id": "content-012-1",
+    "label": "content",
+    "probabilities": {
+      "content": 0.3844586315096344,
+      "ad": 0.0024848503511187892,
+      "cookie": 0.15534313148594137,
+      "newsletter": 0.061257830982096695,
+      "notification": 0.26941243775572404,
+      "paywall": 0.1270431179154847
+    }
+  },
+  {
+    "id": "content-012-2",
+    "label": "content",
+    "probabilities": {
+      "content": 0.785390227264231,
+      "ad": 0.017202699571429714,
+      "cookie": 0.07834084720047287,
+      "newsletter": 0.020429764962624955,
+      "notification": 0.06008025649785493,
+      "paywall": 0.03855620450338642
+    }
+  },
+  {
+    "id": "content-012-3",
+    "label": "content",
+    "probabilities": {
+      "content": 0.7551695345485542,
+      "ad": 0.005217716702250412,
+      "cookie": 0.068003911923996,
+      "newsletter": 0.02932964801171042,
+      "notification": 0.08524410954933392,
+      "paywall": 0.05703507926415476
+    }
+  },
+  {
+    "id": "content-012-4",
+    "label": "content",
+    "probabilities": {
+      "content": 0.8190016098244287,
+      "ad": 0.013762352852507839,
+      "cookie": 0.04985788887499896,
+      "newsletter": 0.01737010387853876,
+      "notification": 0.057290443436933416,
+      "paywall": 0.04271760113259251
+    }
+  },
+  {
+    "id": "content-012-5",
+    "label": "content",
+    "probabilities": {
+      "content": 0.5038374767644291,
+      "ad": 0.010720312249557409,
+      "cookie": 0.16610993395546841,
+      "newsletter": 0.05085650936513709,
+      "notification": 0.15658170590854065,
+      "paywall": 0.11189406175686735
+    }
+  },
+  {
+    "id": "content-012-6",
+    "label": "content",
+    "probabilities": {
+      "content": 0.871588061537281,
+      "ad": 0.04614534412534024,
+      "cookie": 0.02353324145926666,
+      "newsletter": 0.00820641152673092,
+      "notification": 0.026574959352120318,
+      "paywall": 0.023951981999260817
+    }
+  },
+  {
+    "id": "content-012-7",
+    "label": "content",
+    "probabilities": {
+      "content": 0.5569780020973263,
+      "ad": 0.009010866414846616,
+      "cookie": 0.148071621377874,
+      "newsletter": 0.04697592848508446,
+      "notification": 0.1361168588251119,
+      "paywall": 0.10284672279975672
+    }
+  },
+  {
+    "id": "content-016-0",
+    "label": "content",
+    "probabilities": {
+      "content": 0.8749250679832721,
+      "ad": 0.11743773300603029,
+      "cookie": 0.0022840019665049155,
+      "newsletter": 0.0020903872923789283,
+      "notification": 0.0017685680329018686,
+      "paywall": 0.0014942417189119954
+    }
+  },
+  {
+    "id": "content-016-1",
+    "label": "content",
+    "probabilities": {
+      "content": 0.9128898641000555,
+      "ad": 0.08649221554388459,
+      "cookie": 0.00015631291968446775,
+      "newsletter": 0.0001752504130967138,
+      "notification": 0.00016481436704765233,
+      "paywall": 0.00012154265623112072
+    }
+  },
+  {
+    "id": "content-016-2",
+    "label": "content",
+    "probabilities": {
+      "content": 0.9509583541332841,
+      "ad": 0.04744028929883892,
+      "cookie": 0.000429247778319676,
+      "newsletter": 0.00032799840579841194,
+      "notification": 0.0005377016630040718,
+      "paywall": 0.0003064087207547362
+    }
+  },
+  {
+    "id": "content-016-3",
+    "label": "content",
+    "probabilities": {
+      "content": 0.8765606417243357,
+      "ad": 0.11896517432185709,
+      "cookie": 0.0009754120848257851,
+      "newsletter": 0.001198220344781787,
+      "notification": 0.0015019143321993375,
+      "paywall": 0.0007986371920003282
+    }
+  },
+  {
+    "id": "content-016-4",
+    "label": "content",
+    "probabilities": {
+      "content": 0.9513906367738894,
+      "ad": 0.047377720282128014,
+      "cookie": 0.00036676541619238054,
+      "newsletter": 0.0003096838434833451,
+      "notification": 0.0003001914629315126,
+      "paywall": 0.00025500222137542683
+    }
+  },
+  {
+    "id": "content-016-5",
+    "label": "content",
+    "probabilities": {
+      "content": 0.7779142240050433,
+      "ad": 0.22123711596019077,
+      "cookie": 0.0001876200672483028,
+      "newsletter": 0.0002114122042567807,
+      "notification": 0.0002273448646586742,
+      "paywall": 0.0002222828986020332
+    }
+  },
+  {
+    "id": "content-016-6",
+    "label": "content",
+    "probabilities": {
+      "content": 0.6244366117718946,
+      "ad": 0.3679414043634825,
+      "cookie": 0.0024173983161444785,
+      "newsletter": 0.0017479350166440333,
+      "notification": 0.0016365311735335004,
+      "paywall": 0.0018201193583007279
+    }
+  },
+  {
+    "id": "content-016-7",
+    "label": "content",
+    "probabilities": {
+      "content": 0.8135562876459814,
+      "ad": 0.18565903230026926,
+      "cookie": 0.0001693000668488314,
+      "newsletter": 0.0001969018065544259,
+      "notification": 0.0002070548293439448,
+      "paywall": 0.00021142335100209477
+    }
+  },
+  {
+    "id": "content-019-0",
+    "label": "content",
+    "probabilities": {
+      "content": 0.9135917168630734,
+      "ad": 0.07618511158862022,
+      "cookie": 0.0032460496310594044,
+      "newsletter": 0.001740205726760086,
+      "notification": 0.0016504459509223998,
+      "paywall": 0.0035864702395642825
+    }
+  },
+  {
+    "id": "content-019-1",
+    "label": "content",
+    "probabilities": {
+      "content": 0.8757456089926752,
+      "ad": 0.11948309324943776,
+      "cookie": 0.001351284779800008,
+      "newsletter": 0.0010832759353550112,
+      "notification": 0.0008243281037620639,
+      "paywall": 0.0015124089389700465
+    }
+  },
+  {
+    "id": "content-019-2",
+    "label": "content",
+    "probabilities": {
+      "content": 0.868176924361694,
+      "ad": 0.12135356384861594,
+      "cookie": 0.003682299889523689,
+      "newsletter": 0.0020788039478953258,
+      "notification": 0.0011298406769899563,
+      "paywall": 0.003578567275280877
+    }
+  },
+  {
+    "id": "content-019-3",
+    "label": "content",
+    "probabilities": {
+      "content": 0.8741916061808503,
+      "ad": 0.12248905386530778,
+      "cookie": 0.0009370070319012479,
+      "newsletter": 0.0008200455810605017,
+      "notification": 0.0004145256680253799,
+      "paywall": 0.0011477616728545498
+    }
+  },
+  {
+    "id": "content-019-4",
+    "label": "content",
+    "probabilities": {
+      "content": 0.8928353217999196,
+      "ad": 0.09791643624058533,
+      "cookie": 0.0031767064716476793,
+      "newsletter": 0.00185872758066972,
+      "notification": 0.0009746969203733426,
+      "paywall": 0.0032381109868040788
+    }
+  },
+  {
+    "id": "content-019-5",
+    "label": "content",
+    "probabilities": {
+      "content": 0.5838845478302567,
+      "ad": 0.4092649044482165,
+      "cookie": 0.0018209218236782604,
+      "newsletter": 0.001268825916775249,
+      "notification": 0.0012864477483942663,
+      "paywall": 0.0024743522326791346
+    }
+  },
+  {
+    "id": "content-019-6",
+    "label": "content",
+    "probabilities": {
+      "content": 0.45078276209294343,
+      "ad": 0.5328237205725077,
+      "cookie": 0.005749054615927479,
+      "newsletter": 0.0029630297046255058,
+      "notification": 0.0016885143238634785,
+      "paywall": 0.005992918690132201
+    }
+  },
+  {
+    "id": "content-019-7",
+    "label": "content",
+    "probabilities": {
+      "content": 0.5955025937386863,
+      "ad": 0.3990689357093634,
+      "cookie": 0.0018296262846945576,
+      "newsletter": 0.000979519276426454,
+      "notification": 0.0009721867953551779,
+      "paywall": 0.0016471381954742737
+    }
+  },
+  {
+    "id": "content-020-0",
+    "label": "content",
+    "probabilities": {
+      "content": 0.9717617362651937,
+      "ad": 0.022684789437396605,
+      "cookie": 0.0008544235783858962,
+      "newsletter": 0.0003624004286543167,
+      "notification": 0.0008975965667724217,
+      "paywall": 0.0034390537235973657
+    }
+  },
+  {
+    "id": "content-020-1",
+    "label": "content",
+    "probabilities": {
+      "content": 0.9553533624153631,
+      "ad": 0.04391712848710087,
+      "cookie": 0.00015884325489416246,
+      "newsletter": 7.94511443157309e-05,
+      "notification": 0.00013748250327738564,
+      "paywall": 0.0003537321950487218
+    }
+  },
+  {
+    "id": "content-020-2",
+    "label": "content",
+    "probabilities": {
+      "content": 0.9732871044003716,
+      "ad": 0.02491497336663798,
+      "cookie": 0.0003172937154744053,
+      "newsletter": 0.00014986653656621327,
+      "notification": 0.00030367140123795404,
+      "paywall": 0.00102709057971182
+    }
+  },
+  {
+    "id": "content-020-3",
+    "label": "content",
+    "probabilities": {
+      "content": 0.9550837567905245,
+      "ad": 0.041700802727247493,
+      "cookie": 0.0004998914305075576,
+      "newsletter": 0.0003192534962170502,
+      "notification": 0.0005591193507304722,
+      "paywall": 0.0018371762047730133
+    }
+  },
+  {
+    "id": "content-020-4",
+    "label": "content",
+    "probabilities": {
+      "content": 0.9735168036439137,
+      "ad": 0.024361625290621487,
+      "cookie": 0.0003478587313688642,
+      "newsletter": 0.00015086433492557833,
+      "notification": 0.0004919907206677214,
+      "paywall": 0.0011308572785028426
+    }
+  },
+  {
+    "id": "content-020-5",
+    "label": "content",
+    "probabilities": {
+      "content": 0.8761315500680172,
+      "ad": 0.12286429029487489,
+      "cookie": 0.0001951919763383159,
+      "newsletter": 0.0001152800304441761,
+      "notification": 0.00025353490638285915,
+      "paywall": 0.00044015272394274855
+    }
+  },
+  {
+    "id": "content-020-6",
+    "label": "content",
+    "probabilities": {
+      "content": 0.9052880989044431,
+      "ad": 0.08501485135665098,
+      "cookie": 0.0018133596714629242,
+      "newsletter": 0.0007857372797850312,
+      "notification": 0.0020663070269400703,
+      "paywall": 0.005031645760717825
+    }
+  },
+  {
+    "id": "content-020-7",
+    "label": "content",
+    "probabilities": {
+      "content": 0.913135921487014,
+      "ad": 0.08560666381780292,
+      "cookie": 0.00022428267383231207,
+      "newsletter": 0.00012741220012780268,
+      "notification": 0.00038995257589811733,
+      "paywall": 0.000515767245324908
+    }
+  },
+  {
+    "id": "content-022-0",
+    "label": "content",
+    "probabilities": {
+      "content": 0.9356289442932838,
+      "ad": 0.015251790974633696,
+      "cookie": 0.02071594837385268,
+      "newsletter": 0.007679586744539214,
+      "notification": 0.013022652681198286,
+      "paywall": 0.007701076932492479
+    }
+  },
+  {
+    "id": "content-022-1",
+    "label": "content",
+    "probabilities": {
+      "content": 0.7291376530483242,
+      "ad": 0.004461596406469927,
+      "cookie": 0.11113632890152807,
+      "newsletter": 0.06496322676819494,
+      "notification": 0.04990603329981821,
+      "paywall": 0.04039516157566473
+    }
+  },
+  {
+    "id": "content-022-2",
+    "label": "content",
+    "probabilities": {
+      "content": 0.8819598262720539,
+      "ad": 0.016643559892926915,
+      "cookie": 0.05519837704894528,
+      "newsletter": 0.017502684464055552,
+      "notification": 0.01548596050739925,
+      "paywall": 0.013209591814619061
+    }
+  },
+  {
+    "id": "content-022-3",
+    "label": "content",
+    "probabilities": {
+      "content": 0.8496977704121582,
+      "ad": 0.003865612948004104,
+      "cookie": 0.05719800918029445,
+      "newsletter": 0.030660415352431126,
+      "notification": 0.03800820397643533,
+      "paywall": 0.020569988130676706
+    }
+  },
+  {
+    "id": "content-022-4",
+    "label": "content",
+    "probabilities": {
+      "content": 0.8724416427041338,
+      "ad": 0.021200436483138314,
+      "cookie": 0.04802675292097947,
+      "newsletter": 0.019189312759963724,
+      "notification": 0.020708523789664476,
+      "paywall": 0.018433331342120277
+    }
+  },
+  {
+    "id": "content-022-5",
+    "label": "content",
+    "probabilities": {
+      "content": 0.3594721405780583,
+      "ad": 0.025783124116688132,
+      "cookie": 0.22710590364013641,
+      "newsletter": 0.13209388336025307,
+      "notification": 0.11785810550606099,
+      "paywall": 0.13768684279880314
+    }
+  },
+  {
+    "id": "content-022-6",
+    "label": "content",
+    "probabilities": {
+      "content": 0.7020342510977439,
+      "ad": 0.18126677577459002,
+      "cookie": 0.055019222826918804,
+      "newsletter": 0.020520138979025257,
+      "notification": 0.019643895764039448,
+      "paywall": 0.021515715557682513
+    }
+  },
+  {
+    "id": "content-022-7",
+    "label": "content",
+    "probabilities": {
+      "content": 0.43588659035945365,
+      "ad": 0.028203269209461472,
+      "cookie": 0.18911455482835912,
+      "newsletter": 0.1103272747198836,
+      "notification": 0.11019817310236409,
+      "paywall": 0.12627013778047796
+    }
+  },
+  {
+    "id": "content-037-0",
+    "label": "content",
+    "probabilities": {
+      "content": 0.8991867898719068,
+      "ad": 0.03429306500856675,
+      "cookie": 0.012772306704629196,
+      "newsletter": 0.01634776062344181,
+      "notification": 0.024803505766725256,
+      "paywall": 0.01259657202473021
+    }
+  },
+  {
+    "id": "content-037-1",
+    "label": "content",
+    "probabilities": {
+      "content": 0.5172113431061881,
+      "ad": 0.007831168856329514,
+      "cookie": 0.1169263864186224,
+      "newsletter": 0.15121984249511738,
+      "notification": 0.14661118783800742,
+      "paywall": 0.06020007128573504
+    }
+  },
+  {
+    "id": "content-037-2",
+    "label": "content",
+    "probabilities": {
+      "content": 0.7797521346724586,
+      "ad": 0.03459925295911652,
+      "cookie": 0.04859504685176048,
+      "newsletter": 0.048086809498136845,
+      "notification": 0.0605365547205518,
+      "paywall": 0.02843020129797576
+    }
+  },
+  {
+    "id": "content-037-3",
+    "label": "content",
+    "probabilities": {
+      "content": 0.6821564077269291,
+      "ad": 0.00867427670575118,
+      "cookie": 0.05157447262118941,
+      "newsletter": 0.0790534037985063,
+      "notification": 0.13790012496339088,
+      "paywall": 0.04064131418423294
+    }
+  },
+  {
+    "id": "content-037-4",
+    "label": "content",
+    "probabilities": {
+      "content": 0.7088125988460745,
+      "ad": 0.025611253655467892,
+      "cookie": 0.04484893667334313,
+      "newsletter": 0.053388047780294844,
+      "notification": 0.12433962720846758,
+      "paywall": 0.04299953583635193
+    }
+  },
+  {
+    "id": "content-037-5",
+    "label": "content",
+    "probabilities": {
+      "content": 0.31494843425840907,
+      "ad": 0.028705945882989827,
+      "cookie": 0.09566066254316216,
+      "newsletter": 0.1483482858497174,
+      "notification": 0.2482742603149945,
+      "paywall": 0.16406241115072703
+    }
+  },
+  {
+    "id": "content-037-6",
+    "label": "content",
+    "probabilities": {
+      "content": 0.5494547322556178,
+      "ad": 0.1964376128533679,
+      "cookie": 0.03264631413705505,
+      "newsletter": 0.04031208632199128,
+      "notification": 0.12764368910012033,
+      "paywall": 0.05350556533184758
+    }
+  },
+  {
+    "id": "content-037-7",
+    "label": "content",
+    "probabilities": {
+      "content": 0.2578106883359911,
+      "ad": 0.019354390254378216,
+      "cookie": 0.11848712064354398,
+      "newsletter": 0.12680340491079709,
+      "notification": 0.34396586286164355,
+      "paywall": 0.1335785329936461
+    }
+  },
+  {
+    "id": "content-038-0",
+    "label": "content",
+    "probabilities": {
+      "content": 0.9827290563531101,
+      "ad": 0.008859850540018812,
+      "cookie": 0.001863536062443156,
+      "newsletter": 0.0008003372393321929,
+      "notification": 0.0036090515490109667,
+      "paywall": 0.0021381682560845184
+    }
+  },
+  {
+    "id": "content-038-1",
+    "label": "content",
+    "probabilities": {
+      "content": 0.9721008701041461,
+      "ad": 0.024088179371429493,
+      "cookie": 0.0009146626650053104,
+      "newsletter": 0.0006450310836980759,
+      "notification": 0.0012565691351812695,
+      "paywall": 0.0009946876405399127
+    }
+  },
+  {
+    "id": "content-038-2",
+    "label": "content",
+    "probabilities": {
+      "content": 0.9785827793458375,
+      "ad": 0.011513106239741909,
+      "cookie": 0.0022156909900160116,
+      "newsletter": 0.0009261709256197241,
+      "notification": 0.004334455691768798,
+      "paywall": 0.002427796807015978
+    }
+  },
+  {
+    "id": "content-038-3",
+    "label": "content",
+    "probabilities": {
+      "content": 0.9782197166714475,
+      "ad": 0.0189976657050084,
+      "cookie": 0.0008263694463910434,
+      "newsletter": 0.0004543386160142756,
+      "notification": 0.0008691601941366088,
+      "paywall": 0.0006327493670023663
+    }
+  },
+  {
+    "id": "content-038-4",
+    "label": "content",
+    "probabilities": {
+      "content": 0.9782329264058197,
+      "ad": 0.014901891679641278,
+      "cookie": 0.002334317331645693,
+      "newsletter": 0.0008076928990758325,
+      "notification": 0.0021272261310030646,
+      "paywall": 0.0015959455528142513
+    }
+  },
+  {
+    "id": "content-038-5",
+    "label": "content",
+    "probabilities": {
+      "content": 0.9111090546144489,
+      "ad": 0.07925460217815239,
+      "cookie": 0.0014640290949663962,
+      "newsletter": 0.0010324175175796156,
+      "notification": 0.004669059775306799,
+      "paywall": 0.002470836819546097
+    }
+  },
+  {
+    "id": "content-038-6",
+    "label": "content",
+    "probabilities": {
+      "content": 0.9051676565920107,
+      "ad": 0.0812508038109849,
+      "cookie": 0.003602447248849781,
+      "newsletter": 0.0014543138819797714,
+      "notification": 0.004734002766868952,
+      "paywall": 0.0037907756993060208
+    }
+  },
+  {
+    "id": "content-038-7",
+    "label": "content",
+    "probabilities": {
+      "content": 0.9205385201927713,
+      "ad": 0.07441814292656038,
+      "cookie": 0.0008762556021159467,
+      "newsletter": 0.0006920230262577692,
+      "notification": 0.0018936523144515178,
+      "paywall": 0.0015814059378431995
+    }
+  },
+  {
+    "id": "content-042-0",
+    "label": "content",
+    "probabilities": {
+      "content": 0.9480717310239561,
+      "ad": 0.011196501614389781,
+      "cookie": 0.038852949819573,
+      "newsletter": 0.0009729403529980659,
+      "notification": 0.0003257835075685265,
+      "paywall": 0.0005800936815144182
+    }
+  },
+  {
+    "id": "content-042-1",
+    "label": "content",
+    "probabilities": {
+      "content": 0.9655089025113476,
+      "ad": 0.016651178388461346,
+      "cookie": 0.016134096141080977,
+      "newsletter": 0.0009964104765817568,
+      "notification": 0.00024499942475635794,
+      "paywall": 0.0004644130577718579
+    }
+  },
+  {
+    "id": "content-042-2",
+    "label": "content",
+    "probabilities": {
+      "content": 0.9455258571698333,
+      "ad": 0.00920592294259862,
+      "cookie": 0.04253420552442562,
+      "newsletter": 0.0014502157048189499,
+      "notification": 0.00040017967586844803,
+      "paywall": 0.0008836189824550567
+    }
+  },
+  {
+    "id": "content-042-3",
+    "label": "content",
+    "probabilities": {
+      "content": 0.9666249475597459,
+      "ad": 0.018526492704347516,
+      "cookie": 0.013765415593711,
+      "newsletter": 0.0006269122979374725,
+      "notification": 0.0001779148775761053,
+      "paywall": 0.00027831696668199137
+    }
+  },
+  {
+    "id": "content-042-4",
+    "label": "content",
+    "probabilities": {
+      "content": 0.9399912848940415,
+      "ad": 0.009790746493595296,
+      "cookie": 0.04795554837010151,
+      "newsletter": 0.001230440535082854,
+      "notification": 0.00035545255092741585,
+      "paywall": 0.0006765271562512828
+    }
+  },
+  {
+    "id": "content-042-5",
+    "label": "content",
+    "probabilities": {
+      "content": 0.9223251953559196,
+      "ad": 0.051256165684022845,
+      "cookie": 0.024245107687776653,
+      "newsletter": 0.0012048021937808653,
+      "notification": 0.0003429715912691047,
+      "paywall": 0.0006257574872307787
+    }
+  },
+  {
+    "id": "content-042-6",
+    "label": "content",
+    "probabilities": {
+      "content": 0.8748601844874213,
+      "ad": 0.04109203638317175,
+      "cookie": 0.08074848721602325,
+      "newsletter": 0.0016777125674879646,
+      "notification": 0.000564164674845567,
+      "paywall": 0.0010574146710501853
+    }
+  },
+  {
+    "id": "content-042-7",
+    "label": "content",
+    "probabilities": {
+      "content": 0.9199522312831545,
+      "ad": 0.05222874137604404,
+      "cookie": 0.025542133919917064,
+      "newsletter": 0.0012478226293001964,
+      "notification": 0.00036440346604169673,
+      "paywall": 0.0006646673255423936
+    }
+  },
+  {
+    "id": "content-043-0",
+    "label": "content",
+    "probabilities": {
+      "content": 0.6528168643114411,
+      "ad": 0.33125556257091626,
+      "cookie": 0.004094867633289094,
+      "newsletter": 0.005151701211700612,
+      "notification": 0.0016254861206427274,
+      "paywall": 0.005055518152010013
+    }
+  },
+  {
+    "id": "content-043-1",
+    "label": "content",
+    "probabilities": {
+      "content": 0.6484382130620204,
+      "ad": 0.3458121182894736,
+      "cookie": 0.0012134207179960944,
+      "newsletter": 0.002279536711864818,
+      "notification": 0.0005953357341121596,
+      "paywall": 0.0016613754845327714
+    }
+  },
+  {
+    "id": "content-043-2",
+    "label": "content",
+    "probabilities": {
+      "content": 0.6998478732854314,
+      "ad": 0.28464112120739254,
+      "cookie": 0.0038895451169124427,
+      "newsletter": 0.004986065019727766,
+      "notification": 0.0015571410593714571,
+      "paywall": 0.00507825431116451
+    }
+  },
+  {
+    "id": "content-043-3",
+    "label": "content",
+    "probabilities": {
+      "content": 0.6841133006685595,
+      "ad": 0.308857270076609,
+      "cookie": 0.0013934388480463394,
+      "newsletter": 0.0024020357251813337,
+      "notification": 0.001141714975542704,
+      "paywall": 0.0020922397060612655
+    }
+  },
+  {
+    "id": "content-043-4",
+    "label": "content",
+    "probabilities": {
+      "content": 0.758900017532964,
+      "ad": 0.2246300085241328,
+      "cookie": 0.003877019723994773,
+      "newsletter": 0.00465117138595576,
+      "notification": 0.002526746011680005,
+      "paywall": 0.005415036821272458
+    }
+  },
+  {
+    "id": "content-043-5",
+    "label": "content",
+    "probabilities": {
+      "content": 0.16817665382352762,
+      "ad": 0.8260621630271697,
+      "cookie": 0.00114392201334076,
+      "newsletter": 0.0023760145513900283,
+      "notification": 0.0007709372107912323,
+      "paywall": 0.0014703093737806012
+    }
+  },
+  {
+    "id": "content-043-6",
+    "label": "content",
+    "probabilities": {
+      "content": 0.1521904664113808,
+      "ad": 0.8228310630572684,
+      "cookie": 0.004389261355474609,
+      "newsletter": 0.007973331979114574,
+      "notification": 0.0047925323473436915,
+      "paywall": 0.0078233448494181
+    }
+  },
+  {
+    "id": "content-043-7",
+    "label": "content",
+    "probabilities": {
+      "content": 0.14768264814981288,
+      "ad": 0.8459725308227188,
+      "cookie": 0.0009996855137266664,
+      "newsletter": 0.002707947640238567,
+      "notification": 0.0008479576711775735,
+      "paywall": 0.0017892302023253537
+    }
+  }
+]

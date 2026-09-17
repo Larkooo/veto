@@ -1,0 +1,15 @@
+:root { color-scheme: light dark; font: 13px system-ui, sans-serif; }
+body { width: 310px; margin: 0; padding: 20px; background: #f7f8f6; color: #192824; }
+h1 { margin: 0; font-size: 18px; letter-spacing: -.4px; } h1 span { font-size: 10px; color: #637069; font-weight: 500; }
+#host { overflow-wrap: anywhere; color: #52645b; margin: 6px 0 16px; }
+.metrics { display: grid; grid-template-columns: auto 1fr; column-gap: 10px; align-items: center; border-block: 1px solid #dbe1dc; padding: 12px 0; margin-bottom: 16px; }
+.metrics strong { font-size: 30px; grid-row: span 2; font-variant-numeric: tabular-nums; }
+.metrics small { color: #617167; }
+label { display: flex; align-items: center; gap: 9px; margin: 13px 0; font-weight: 550; cursor: pointer; }
+input { accent-color: #27765a; width: 16px; height: 16px; }
+.hint { font-size: 11px; line-height: 1.45; margin: -6px 0 14px 29px; color: #52645b; }
+.actions { display: flex; gap: 8px; margin-top: 20px; }
+button { background: #e5ede7; color: inherit; border: 1px solid #c7d4ca; border-radius: 5px; padding: 9px; font: inherit; cursor: pointer; }
+button:hover { background: #d5e5da; } :focus-visible { outline: 2px solid #27765a; outline-offset: 3px; }
+#status { min-height: 16px; font-size: 12px; } footer { border-top: 1px solid #dbe1dc; padding-top: 12px; font-size: 11px; line-height: 1.5; color: #52645b; }
+@media (prefers-color-scheme: dark) { body { background: #16221d; color: #e0e9e3; } h1 span,#host,.metrics small,.hint,footer { color: #a8b9ae; } button { background: #263f31; border-color: #48614f; } button:hover { background: #33543f; } }

@@ -1,0 +1,15 @@
+{
+  "name": "veto",
+  "private": true,
+  "version": "0.2.0",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "build": "python3 tools/build_extension.py",
+    "test": "node --test tests/core.test.mjs",
+    "benchmark": "node tools/benchmark.mjs",
+    "build:model": "python3 tools/build_model.py",
+    "publish:model": "python3 tools/publish_model.py",
+    "test:model": "node --test tests/model.test.mjs"
+  }
+}

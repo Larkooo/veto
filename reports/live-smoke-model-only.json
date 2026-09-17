@@ -1,0 +1,147 @@
+{
+  "scope": "Single fresh-profile visit per site, no field accuracy or performance claim. Blank ad containers count as elements, not loaded advertisements.",
+  "pages": [
+    {
+      "url": "https://www.wired.com/",
+      "http_status": 200,
+      "status": {
+        "scanned": 16801,
+        "classified": 638,
+        "hidden": 5,
+        "slices": 212,
+        "cpuMs": 111.30000007152557,
+        "maxSliceMs": 4.0999999940395355,
+        "startedAt": 3571.5999999940395,
+        "settledMs": 3336.2000000029802,
+        "paused": false,
+        "enabled": true,
+        "host": "www.wired.com",
+        "pending": true,
+        "modelBytes": 24576,
+        "modelVersion": "0.3.0"
+      },
+      "hidden_elements": [
+        {
+          "tag": "DIV",
+          "id": "",
+          "classes": "StickyHeroAdWrapper-kurarC gSpllZ ad-stickyhero ad-stickyhero-enable-mobile",
+          "reason": "ad",
+          "display": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "",
+          "classes": "ad-container ad-container-reduced-margin",
+          "reason": "ad",
+          "display": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "",
+          "classes": "ad-container ad-container-reduced-margin",
+          "reason": "ad",
+          "display": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "",
+          "classes": "ad-container ad-container-reduced-margin",
+          "reason": "ad",
+          "display": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "",
+          "classes": "AdWrapper-fGiLaV iGDxYx ad ad--footer should-hold-space",
+          "reason": "ad",
+          "display": "none"
+        }
+      ]
+    },
+    {
+      "url": "https://www.cnn.com/",
+      "http_status": 200,
+      "status": {
+        "scanned": 28719,
+        "classified": 977,
+        "hidden": 6,
+        "slices": 359,
+        "cpuMs": 195.30000008642673,
+        "maxSliceMs": 3.5,
+        "startedAt": 2948.1000000089407,
+        "settledMs": null,
+        "paused": false,
+        "enabled": true,
+        "host": "www.cnn.com",
+        "pending": true,
+        "modelBytes": 24576,
+        "modelVersion": "0.3.0"
+      },
+      "hidden_elements": [
+        {
+          "tag": "DIV",
+          "id": "",
+          "classes": "ad-slot",
+          "reason": "ad",
+          "display": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "",
+          "classes": "ad-slot",
+          "reason": "ad",
+          "display": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "",
+          "classes": "ad-slot",
+          "reason": "ad",
+          "display": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "",
+          "classes": "ad-slot",
+          "reason": "ad",
+          "display": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "",
+          "classes": "ad-slot",
+          "reason": "ad",
+          "display": "none"
+        },
+        {
+          "tag": "DIV",
+          "id": "",
+          "classes": "ad-slot",
+          "reason": "ad",
+          "display": "none"
+        }
+      ]
+    },
+    {
+      "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+      "http_status": 200,
+      "status": {
+        "scanned": 3461,
+        "classified": 472,
+        "hidden": 0,
+        "slices": 45,
+        "cpuMs": 41.300000086426735,
+        "maxSliceMs": 3.6000000089406967,
+        "startedAt": 578.7000000029802,
+        "settledMs": 1250.7999999970198,
+        "paused": false,
+        "enabled": true,
+        "host": "developer.mozilla.org",
+        "pending": false,
+        "modelBytes": 24576,
+        "modelVersion": "0.3.0"
+      },
+      "hidden_elements": []
+    }
+  ]
+}

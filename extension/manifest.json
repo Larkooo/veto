@@ -1,0 +1,49 @@
+{
+  "manifest_version": 3,
+  "name": "Veto",
+  "version": "0.2.0",
+  "description": "A small local classifier that hides ads and optional nuisance overlays. Experimental.",
+  "permissions": [
+    "storage",
+    "activeTab",
+    "declarativeNetRequest"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Veto"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "http://*/*",
+        "https://*/*"
+      ],
+      "js": [
+        "core.js",
+        "model.js",
+        "ad-hosts.js",
+        "native.js",
+        "overlay.js",
+        "dom.js",
+        "content.js"
+      ],
+      "run_at": "document_idle",
+      "all_frames": false
+    }
+  ],
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'none'; connect-src 'none'"
+  },
+  "declarative_net_request": {
+    "rule_resources": [
+      {
+        "id": "veto-network",
+        "enabled": true,
+        "path": "network-rules.json"
+      }
+    ]
+  }
+}

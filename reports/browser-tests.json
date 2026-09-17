@@ -1,0 +1,57 @@
+{
+  "browser": "153.0.8010.12",
+  "checks": [
+    "default ad hiding; article, authentication, save dialog, mixed container, and optional overlays preserved",
+    "paywall opt-in works; unvalidated newsletter/cookie heads and inline links remain",
+    "dynamically inserted advertisement hidden",
+    "text and attribute mutations reclassified",
+    "a hidden node recycled into ordinary content is restored",
+    "open shadow-root advertisement hidden",
+    "restore reverses every hide and pauses this page",
+    "persistent per-site disable restores content",
+    "no idle observer feedback loop",
+    "2000 ordinary dynamic cards preserved with bounded task scheduling",
+    "popup loads under extension CSP"
+  ],
+  "initial_navigation_to_assertions_ms": 373.0882079980802,
+  "initial_scan": {
+    "scanned": 126,
+    "classified": 27,
+    "hidden": 2,
+    "slices": 4,
+    "cpuMs": 4.799999997019768,
+    "maxSliceMs": 4,
+    "startedAt": 38.20000000298023,
+    "settledMs": 69.79999999701977,
+    "paused": false,
+    "enabled": true,
+    "host": "fixture.test",
+    "pending": false,
+    "modelBytes": 24576,
+    "modelVersion": "0.3.0"
+  },
+  "large_dom_scan": {
+    "scanned": 2510,
+    "classified": 2078,
+    "hidden": 5,
+    "slices": 40,
+    "cpuMs": 32.499999925494194,
+    "maxSliceMs": 4,
+    "startedAt": 38.20000000298023,
+    "settledMs": 2102.2999999970198,
+    "paused": false,
+    "enabled": true,
+    "host": "fixture.test",
+    "pending": false,
+    "modelBytes": 24576,
+    "modelVersion": "0.3.0"
+  },
+  "large_dom_delta": {
+    "wall_ms_including_polling": 1211.223833000986,
+    "cpu_ms": 24.199999883770943,
+    "slices": 26,
+    "classified": 2002
+  },
+  "console_errors": [],
+  "scope": "Real extension running on authored fixtures; timings include DOM scanning, not a field performance study."
+}

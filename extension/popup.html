@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><title>Veto</title><link rel="stylesheet" href="popup.css"></head>
+<body>
+  <h1>Veto <span>Prototype</span></h1>
+  <p id="host">This page</p>
+  <div class="metrics"><strong id="hidden">—</strong><span>elements hidden</span><small id="timing">Reading page status…</small></div>
+  <label><input type="checkbox" id="enabled"> Enable protection</label>
+  <label><input type="checkbox" id="ads"> Block ads</label>
+  <label><input type="checkbox" id="network"> Block known ad and tracking requests</label>
+  <p class="hint">Reload after changing network settings. Restore pauses future requests; reload to recover resources already blocked.</p>
+  <label><input type="checkbox" id="annoyances"> Hide nuisance overlays</label>
+  <p class="hint" id="nuisanceHint">Newsletter overlays. Cookie and push prompts stay visible until the model meets its validation gate.</p>
+  <label><input type="checkbox" id="paywalls"> Hide paywall overlays</label>
+  <p class="hint">Only hides the overlay. It cannot retrieve missing content or guarantee that scrolling is unlocked.</p>
+  <label><input type="checkbox" id="siteEnabled"> Enable on this site</label>
+  <div class="actions"><button id="restore">Restore & pause page</button><button id="resume">Resume</button></div>
+  <p id="status" role="status"></p>
+  <footer>Runs on your device. No page uploads. Early model: use restore if something disappears.</footer>
+  <script src="core.js"></script><script src="model.js"></script><script src="popup.js"></script>
+</body></html>

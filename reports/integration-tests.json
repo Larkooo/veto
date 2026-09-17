@@ -1,0 +1,15 @@
+{
+  "checks": [
+    "X placement and disclosure ads hidden; organic mentions and invisible labels kept",
+    "deep disclosure mutations rechecked; recycled X card restored",
+    "Instagram disclosure card hidden; organic captions and paid-partnership posts kept",
+    "sponsored Reel hidden; hidden-media replay paused; restore allows user playback",
+    "publisher sponsored card and explicit overlays hidden; articles, forms and normal dialogs kept",
+    "overlay/native restore and resume work",
+    "Chrome request engine blocks ad scripts and preserves host lookalikes, normal assets and article navigation",
+    "page pause/resume updates per-tab network allow rules",
+    "site exception, network switch and ads switch control request and DOM policies",
+    "portable model imports and classifies in a browser without extension APIs"
+  ],
+  "scope": "Authored fixtures, actual unpacked Chromium extension, real declarativeNetRequest engine. Social feeds are not signed-in live checks."
+}

@@ -1,0 +1,294 @@
+{
+  "scope": "Bootstrap test was observed during v1 development; this regression score is not an independent real-web accuracy estimate.",
+  "sources": {
+    "bootstrap": 1232,
+    "reviewed_real_dom": 52
+  },
+  "labels": [
+    "content",
+    "ad",
+    "cookie",
+    "newsletter",
+    "notification",
+    "paywall"
+  ],
+  "samples": {
+    "train": 788,
+    "validation": 256,
+    "test": 240
+  },
+  "groups": {
+    "train": 96,
+    "validation": 32,
+    "test": 30
+  },
+  "data_sha256": "5c24019474ce083640966bfe4ebfa17bf25a9568a59e4e54017f2f59cbc7c22a",
+  "training_seconds": 0.1597822079929756,
+  "selected_C": 8.0,
+  "validation_regularization": [
+    {
+      "C": 0.5,
+      "log_loss": 0.9446118930728972
+    },
+    {
+      "C": 2.0,
+      "log_loss": 0.7555391661738139
+    },
+    {
+      "C": 8.0,
+      "log_loss": 0.6431355353684833
+    }
+  ],
+  "temperature": 0.5468617738632212,
+  "thresholds": {
+    "ad": 0.97,
+    "cookie": 1.01,
+    "newsletter": 1.01,
+    "notification": 1.01,
+    "paywall": 0.97
+  },
+  "threshold_validation_support": {
+    "ad": 11,
+    "cookie": 0,
+    "newsletter": 0,
+    "notification": 0,
+    "paywall": 8
+  },
+  "model_bytes": 33676,
+  "parameters": 24582,
+  "validation": {
+    "accuracy": 0.82421875,
+    "log_loss": 0.48277746990551385,
+    "brier_multiclass": 0.2712254667619358,
+    "ece_10_bins": 0.0553261826026787,
+    "confusion_matrix": [
+      [
+        78,
+        7,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        17,
+        25,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        16,
+        0,
+        17,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        32,
+        0,
+        0
+      ],
+      [
+        2,
+        0,
+        0,
+        0,
+        30,
+        0
+      ],
+      [
+        3,
+        0,
+        0,
+        0,
+        0,
+        29
+      ]
+    ],
+    "per_class": {
+      "content": {
+        "precision": 0.6724137931034483,
+        "recall": 0.9176470588235294,
+        "f1-score": 0.7761194029850746,
+        "support": 85.0
+      },
+      "ad": {
+        "precision": 0.78125,
+        "recall": 0.5952380952380952,
+        "f1-score": 0.6756756756756757,
+        "support": 42.0
+      },
+      "cookie": {
+        "precision": 1.0,
+        "recall": 0.5151515151515151,
+        "f1-score": 0.68,
+        "support": 33.0
+      },
+      "newsletter": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 32.0
+      },
+      "notification": {
+        "precision": 1.0,
+        "recall": 0.9375,
+        "f1-score": 0.967741935483871,
+        "support": 32.0
+      },
+      "paywall": {
+        "precision": 1.0,
+        "recall": 0.90625,
+        "f1-score": 0.9508196721311475,
+        "support": 32.0
+      },
+      "accuracy": 0.82421875,
+      "macro avg": {
+        "precision": 0.9089439655172414,
+        "recall": 0.8119644448688567,
+        "f1-score": 0.8417261143792948,
+        "support": 256.0
+      },
+      "weighted avg": {
+        "precision": 0.8553424703663793,
+        "recall": 0.82421875,
+        "f1-score": 0.8210253870148059,
+        "support": 256.0
+      }
+    }
+  },
+  "test": {
+    "accuracy": 0.8666666666666667,
+    "log_loss": 0.37229718196790607,
+    "brier_multiclass": 0.1932224971062376,
+    "ece_10_bins": 0.07716241312769752,
+    "confusion_matrix": [
+      [
+        71,
+        4,
+        0,
+        4,
+        1,
+        0
+      ],
+      [
+        4,
+        28,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        12,
+        0,
+        20,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        32,
+        0,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        0,
+        31,
+        0
+      ],
+      [
+        3,
+        3,
+        0,
+        0,
+        0,
+        26
+      ]
+    ],
+    "per_class": {
+      "content": {
+        "precision": 0.7802197802197802,
+        "recall": 0.8875,
+        "f1-score": 0.8304093567251462,
+        "support": 80.0
+      },
+      "ad": {
+        "precision": 0.8,
+        "recall": 0.875,
+        "f1-score": 0.835820895522388,
+        "support": 32.0
+      },
+      "cookie": {
+        "precision": 1.0,
+        "recall": 0.625,
+        "f1-score": 0.7692307692307693,
+        "support": 32.0
+      },
+      "newsletter": {
+        "precision": 0.8888888888888888,
+        "recall": 1.0,
+        "f1-score": 0.9411764705882353,
+        "support": 32.0
+      },
+      "notification": {
+        "precision": 0.96875,
+        "recall": 0.96875,
+        "f1-score": 0.96875,
+        "support": 32.0
+      },
+      "paywall": {
+        "precision": 1.0,
+        "recall": 0.8125,
+        "f1-score": 0.896551724137931,
+        "support": 32.0
+      },
+      "accuracy": 0.8666666666666667,
+      "macro avg": {
+        "precision": 0.9063097781847782,
+        "recall": 0.8614583333333333,
+        "f1-score": 0.8736565360340783,
+        "support": 240.0
+      },
+      "weighted avg": {
+        "precision": 0.8810917785917786,
+        "recall": 0.8666666666666667,
+        "f1-score": 0.8650071001722919,
+        "support": 240.0
+      }
+    }
+  },
+  "test_ad_gate": {
+    "true_positives": 18,
+    "false_positives": 0,
+    "actual_ads": 32,
+    "precision": 1.0,
+    "recall": 0.5625,
+    "precision_wilson_95": [
+      0.8241154494176252,
+      1.0
+    ],
+    "interval_caveat": "Sample-level interval; variants are correlated within families."
+  },
+  "quantization_max_probability_delta": 0.022984561298888928,
+  "hardware": "macOS-27.0-arm64-arm-64bit",
+  "limitations": [
+    "Synthetic labels and correlated variants",
+    "English-heavy seed vocabulary",
+    "Closed shadow roots and image/video-only ads are not semantically understood",
+    "Confidence on new websites is unvalidated",
+    "No claim of undetectability or superiority to maintained filter lists"
+  ]
+}

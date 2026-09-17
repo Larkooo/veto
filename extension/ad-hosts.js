@@ -1,0 +1,1 @@
+globalThis.VetoAdHosts = Object.freeze(["doubleclick.net", "googlesyndication.com", "googleadservices.com", "adnxs.com", "adsrvr.org", "adservice.google.com", "an.yandex.ru", "taboola.com", "outbrain.com", "12ezo5v60.com", "ybs2ffs7v.com", "fvcwqkkqmuv.com", "antiadblocksystems.com", "adsco.re", "pncloudfl.com", "bncloudfl.com"]);

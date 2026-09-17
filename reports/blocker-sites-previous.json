@@ -1,0 +1,48 @@
+{
+  "extension_version": "0.1.1",
+  "scope": "Earlier cosmetic-only build; fresh-profile visit before the integration changes. No popup click exercised.",
+  "pages": [
+    {
+      "url": "https://canyoublockit.com/extreme-test/",
+      "score": null,
+      "status": {
+        "scanned": 7817,
+        "classified": 324,
+        "hidden": 7,
+        "slices": 103,
+        "cpuMs": 84.49999998509884,
+        "maxSliceMs": 5,
+        "startedAt": 1730.7000000029802,
+        "settledMs": 8667.20000000298,
+        "paused": false,
+        "enabled": true,
+        "host": "canyoublockit.com",
+        "pending": false,
+        "modelBytes": 24576,
+        "modelVersion": "0.3.0"
+      },
+      "browser_confirmed_blocked_requests": 0
+    },
+    {
+      "url": "https://adblock-tester.com/",
+      "score": 48,
+      "status": {
+        "scanned": 5189,
+        "classified": 132,
+        "hidden": 0,
+        "slices": 72,
+        "cpuMs": 32.70000000298023,
+        "maxSliceMs": 2.5,
+        "startedAt": 1668.5,
+        "settledMs": 4330.5,
+        "paused": false,
+        "enabled": true,
+        "host": "adblock-tester.com",
+        "pending": false,
+        "modelBytes": 24576,
+        "modelVersion": "0.3.0"
+      },
+      "browser_confirmed_blocked_requests": 0
+    }
+  ]
+}

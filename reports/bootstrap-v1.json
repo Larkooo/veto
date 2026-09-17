@@ -1,0 +1,290 @@
+{
+  "scope": "Authored bootstrap families only; not a real-web accuracy estimate.",
+  "labels": [
+    "content",
+    "ad",
+    "cookie",
+    "newsletter",
+    "notification",
+    "paywall"
+  ],
+  "samples": {
+    "train": 744,
+    "validation": 248,
+    "test": 240
+  },
+  "groups": {
+    "train": 93,
+    "validation": 31,
+    "test": 30
+  },
+  "data_sha256": "6d1846a1687f336d710aea5a5573c7a64c9a5d3f0136b92ed9faf41b67c36464",
+  "training_seconds": 0.22808858299686108,
+  "selected_C": 8.0,
+  "validation_regularization": [
+    {
+      "C": 0.5,
+      "log_loss": 0.5668681374207484
+    },
+    {
+      "C": 2.0,
+      "log_loss": 0.4296149897813002
+    },
+    {
+      "C": 8.0,
+      "log_loss": 0.3464113503754009
+    }
+  ],
+  "temperature": 0.5,
+  "thresholds": {
+    "ad": 0.97,
+    "cookie": 1.01,
+    "newsletter": 0.97,
+    "notification": 1.01,
+    "paywall": 0.97
+  },
+  "threshold_validation_support": {
+    "ad": 23,
+    "cookie": 0,
+    "newsletter": 24,
+    "notification": 0,
+    "paywall": 32
+  },
+  "model_bytes": 33540,
+  "parameters": 24582,
+  "validation": {
+    "accuracy": 0.9153225806451613,
+    "log_loss": 0.24612935708147027,
+    "brier_multiclass": 0.12242159534297885,
+    "ece_10_bins": 0.04986296496619564,
+    "confusion_matrix": [
+      [
+        72,
+        2,
+        2,
+        3,
+        1,
+        0
+      ],
+      [
+        8,
+        32,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        27,
+        5,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        32,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        32,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        32
+      ]
+    ],
+    "per_class": {
+      "content": {
+        "precision": 0.9,
+        "recall": 0.9,
+        "f1-score": 0.9,
+        "support": 80.0
+      },
+      "ad": {
+        "precision": 0.9411764705882353,
+        "recall": 0.8,
+        "f1-score": 0.8648648648648649,
+        "support": 40.0
+      },
+      "cookie": {
+        "precision": 0.9310344827586207,
+        "recall": 0.84375,
+        "f1-score": 0.8852459016393442,
+        "support": 32.0
+      },
+      "newsletter": {
+        "precision": 0.8,
+        "recall": 1.0,
+        "f1-score": 0.8888888888888888,
+        "support": 32.0
+      },
+      "notification": {
+        "precision": 0.9696969696969697,
+        "recall": 1.0,
+        "f1-score": 0.9846153846153847,
+        "support": 32.0
+      },
+      "paywall": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 32.0
+      },
+      "accuracy": 0.9153225806451613,
+      "macro avg": {
+        "precision": 0.9236513205073043,
+        "recall": 0.9239583333333333,
+        "f1-score": 0.9206025066680805,
+        "support": 248.0
+      },
+      "weighted avg": {
+        "precision": 0.9196389729923723,
+        "recall": 0.9153225806451613,
+        "f1-score": 0.9148169362870578,
+        "support": 248.0
+      }
+    }
+  },
+  "test": {
+    "accuracy": 0.9,
+    "log_loss": 0.2993255151943656,
+    "brier_multiclass": 0.13832354604168454,
+    "ece_10_bins": 0.041252623330536975,
+    "confusion_matrix": [
+      [
+        57,
+        1,
+        7,
+        9,
+        6,
+        0
+      ],
+      [
+        1,
+        31,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        32,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        32,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        32,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        32
+      ]
+    ],
+    "per_class": {
+      "content": {
+        "precision": 0.9827586206896551,
+        "recall": 0.7125,
+        "f1-score": 0.8260869565217391,
+        "support": 80.0
+      },
+      "ad": {
+        "precision": 0.96875,
+        "recall": 0.96875,
+        "f1-score": 0.96875,
+        "support": 32.0
+      },
+      "cookie": {
+        "precision": 0.8205128205128205,
+        "recall": 1.0,
+        "f1-score": 0.9014084507042254,
+        "support": 32.0
+      },
+      "newsletter": {
+        "precision": 0.7804878048780488,
+        "recall": 1.0,
+        "f1-score": 0.8767123287671232,
+        "support": 32.0
+      },
+      "notification": {
+        "precision": 0.8421052631578947,
+        "recall": 1.0,
+        "f1-score": 0.9142857142857143,
+        "support": 32.0
+      },
+      "paywall": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0,
+        "support": 32.0
+      },
+      "accuracy": 0.9,
+      "macro avg": {
+        "precision": 0.8991024182064032,
+        "recall": 0.946875,
+        "f1-score": 0.914540575046467,
+        "support": 240.0
+      },
+      "weighted avg": {
+        "precision": 0.9158336587030536,
+        "recall": 0.9,
+        "f1-score": 0.8968498513415215,
+        "support": 240.0
+      }
+    }
+  },
+  "test_ad_gate": {
+    "true_positives": 27,
+    "false_positives": 0,
+    "actual_ads": 32,
+    "precision": 1.0,
+    "recall": 0.84375,
+    "precision_wilson_95": [
+      0.8754409628553641,
+      1.0
+    ],
+    "interval_caveat": "Sample-level interval; variants are correlated within families."
+  },
+  "quantization_max_probability_delta": 0.02294675053675449,
+  "hardware": "macOS-27.0-arm64-arm-64bit",
+  "limitations": [
+    "Synthetic labels and correlated variants",
+    "English-heavy seed vocabulary",
+    "Closed shadow roots and image/video-only ads are not semantically understood",
+    "Confidence on new websites is unvalidated",
+    "No claim of undetectability or superiority to maintained filter lists"
+  ]
+}

@@ -1,0 +1,17 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><title>Veto test page</title>
+<style>
+body{font:16px/1.65 system-ui;margin:0;background:#f7f7f3;color:#23322b}header,main,footer{max-width:1000px;margin:auto;padding:24px}header{border-bottom:1px solid #d9ded7}header small{color:#657968}h1{margin:6px 0}.grid{display:grid;grid-template-columns:1fr 300px;gap:40px}.card{background:white;padding:20px;border:1px solid #dfe3db;border-radius:4px}.slot{width:300px;min-height:250px;box-sizing:border-box;background:#e9eddf;padding:20px}#newsletter{position:fixed;right:20px;bottom:20px;width:340px;background:#1c4938;color:white;padding:25px;z-index:5}#paywall{position:fixed;left:20px;bottom:20px;width:330px;background:#e6e1ce;padding:25px;z-index:5}button{padding:8px}#legit-dialog{border:1px solid #ccd9d0;padding:16px}#cookie-prompt{position:fixed;top:5px;left:5px;width:200px;background:#eee;padding:10px}#dynamic{margin-top:20px}
+</style></head><body>
+<header><small>LOCAL CLASSIFIER / BROWSER FIXTURE</small><h1>A quieter page, with the story intact.</h1><p>Rendered content, overlays, dynamic inserts, and ordinary controls.</p></header>
+<main class="grid"><article id="story"><h2>How the web pays for itself</h2><p>Advertising supports many publishers. This article discusses sponsored content, cookies, notifications, and paywalls. These words alone should not erase an article.</p><p>Legitimate page controls should continue working. The classifier sees small candidate elements, while structural guards protect articles and navigation.</p>
+<div id="legit-dialog" role="dialog"><strong>Save your changes?</strong><p>You have unsaved edits.</p><button>Cancel</button> <button>Save</button></div>
+<div id="login" role="dialog"><label>Password <input type="password"></label><button>Sign in</button></div>
+<div id="inline-subscription">Subscribe to read the latest news. View our subscription plans.</div>
+<div id="mixed"><article>A second legitimate story with reporting that should remain visible.</article><div class="sponsored ad-slot">Advertisement · Shop the latest collection</div></div>
+<div id="dynamic"></div><div id="shadow-host"></div>
+</article><aside><div id="ad" class="slot advertisement banner" aria-label="Advertisement"><small>Advertisement</small><h3>Shop the latest collection</h3><p>Discover summer essentials.</p></div><section class="card"><h3>Related stories</h3><p>Research and reporting from our editors.</p></section></aside></main>
+<div id="newsletter" class="newsletter-modal" role="dialog"><h3>Get our newsletter</h3><p>Enter your email to subscribe. No thanks</p><button>Subscribe</button></div>
+<div id="paywall" class="paywall-overlay" role="dialog"><h3>Subscribe to continue reading</h3><p>Already a subscriber? Sign in</p></div>
+<div id="cookie-prompt" class="cookie-consent-banner">We use cookies. Accept all Reject all</div>
+<footer>This fixture is authored test content, not a benchmark of real websites.</footer>
+</body></html>
